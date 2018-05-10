@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Help</title>
+</head>
+<body>
+
+<h2>General</h2>
+	<p>Clause boundaries are bordered with handles: "[" and "]".</p>
+	<p>Sentences are separated with empty lines.</p>
+	<p>Markers are <u>underlined</u>.</p>
+	<p>Verbs are <i>italic</i> (by default works for Polish only). 
+	Verbs are identified by regular expression (with is compared to the pos tag of a word)
+	stored in the file <b>verb.regexp</b> inside the jar package. 
+	Modify this file for your purposes using any 
+	extraction tool.</p>
+
+<h2>Marker/Clause/Span selection</h2>
+	<p>When a span of text is selected, it's yellow. Program doesn't allow 
+	to select a span in more than one clause. Automatically this span's 
+	clause is selected. If the selected span contain only one marker (or part of a marker), 
+	this marker is also selected. Current selected clause/marker are 
+	displayed in the bottom panel. It's best to play with the program
+	to see how it selects them.</p>
+	<p>All clauses which have set a "continue" attribute are highlighted pink.</p>
+	<p>Markers which don't have set required attributes (arg1/2, type) are marked magenta.</p> 
+
+<h2>Clause actions</h2>
+	<p>These are possible clause actions:</p>
+	<ul>
+		<li><b>Split clause into two</b> - select a single word or a span of words, 
+		then press <b>ENTER</b> key on the keyboard. The clause is going to be split in two, beginning
+		from the first word selected. WARNING: System won't let you to split a marker into two clauses.		
+		<li><b>Merge clause with <u>n</u>ext</b> - select clause, then press <b>N</b> key. Current clause
+		is going to be merged with the next one, if possible. All pointers to current clause are going 
+		to be lost, all pointers to the next clause remain the same.
+		<li><b>Merge clause with <u>p</u>revious</b> - select clause, then press <b>P</b> key. Current clause
+		is going to be merged with the previous one, if possible. All pointers to current clause are going 
+		to be lost, all pointers to the previous clause remain the same.
+	</ul>	
+
+<h2>Marker actions</h2>
+	<p>These are possible marker actions:</p>
+	<ul>
+		<li><b>Create <u>m</u>arker</b> - select a span of words, then press <b>M</b> key on the keyboard. 
+		Marker will be created from the selection.</li>
+		<li><b><u>D</u>elete marker</b> - select this marker, 
+		then press key <b>D</b> on the keyboard.</li>
+		<li><b>Change marker NUC attribute</b> - select marker,
+		then select desired NUC in the bottom panel.
+		<li><b>Change marker CONNECT attribute</b> - select marker,
+		then select desired CONNECT in the bottom panel. 
+	</ul>
+</body>
+</html>

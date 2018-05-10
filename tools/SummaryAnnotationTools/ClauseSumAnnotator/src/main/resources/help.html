@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Help</title>
+</head>
+<body>
+
+<h2>General</h2>
+
+<p>Summannotator is a program for manual extraction summary creation.
+It allows to select/deselect clauses to summaries simply by clicking them.</p>
+
+<p>When we open a file in it, we can see 3 tabs, each corresponding 
+to a different summary size: 20%, 10% and 5%. Clauses to choose 
+from are shown in the top pane, bottom pane presents current size 
+of the summary with respect to the desired size (so a 100% means
+that summary is of correct size, not that we selected all the clauses).
+Bottom right pane presents the summary as free text.</p>
+
+<p>Each smaller summary must contain only clauses from the bigger one.</p>
+
+<h2>Changing display size</h2>
+<p>To change display size, choose from "Other" menu option "Change font size" 
+and select desired value. For changes to have effect, you need to load the text 
+again (by selecting "Open" option from "File" menu). Settings are reset to default 
+after the program is closed.</p>
+
+<h2>Format of input/output files</h2>
+<p>Input file to the program should be in XML format (with the .xml)
+extension. It should contain CLAUSE tags (with obligatory ID attribute),
+and WORD tags. A WORD tag should contain orthgraphical form of the word
+inside. Two example files (Greek and English) are enclosed with this 
+application.</p>
+
+<p>Saving the summary in program results in the creation of a file with 
+the same name as the opened one, but with .summ extension instead of
+.xml. File format is self-explaining, the file contains information 
+about 3 summaries: 20%, 10% and 5%. Empty lines are important, and
+it's better not to try to edit this file manually.</p>
+
+<p>If we choose to open a file with existing .summ neighbour, the summary
+from it will be automatically loaded.</p>
+
+</body>
+</html>

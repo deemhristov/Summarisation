@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT>
+  <S ID="S0">
+    <CLAUSE ID="CLAUSE0">
+      <W ID="W0" LEMMA="przed" POS="prep:inst:nwok">Przed</W>
+      <W ID="W1" LEMMA="rok" POS="subst:pl:inst:m3">laty</W>
+      <W ID="W2" LEMMA="żyć" POS="praet:pl:m1:imperf">żyli</W>
+      <W ID="W3" LEMMA="się" POS="siebie:dat">sobie</W>
+      <W ID="W4" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W5" LEMMA="i" POS="conj">i</W>
+      <W ID="W6" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W7" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE1">
+      <W ID="W8" LEMMA="który" POS="adj:pl:nom:m1:pos">którzy</W>
+      <W ID="W9" LEMMA="powtarzać" POS="praet:pl:m1:imperf">powtarzali</W>
+      <W ID="W10" LEMMA="codziennie" POS="adv:pos">codziennie</W>
+      <W ID="W11" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE2">
+      <W ID="W12" LEMMA="-" POS="interp">-</W>
+      <W ID="W13" LEMMA="ach" POS="interj">Ach</W>
+      <W ID="W14" LEMMA="," POS="interp">,</W>
+      <W ID="W15" LEMMA="gdyby" POS="comp">gdyby</W>
+      <W ID="W16" LEMMA="być" POS="aglt:pl:pri:imperf:nwok">śmy</W>
+      <W ID="W17" LEMMA="mieć" POS="praet:pl:m1:imperf">mieli</W>
+      <W ID="W18" LEMMA="dziecko" POS="subst:sg:acc:n">dziecko</W>
+      <W ID="W19" LEMMA="!" POS="interp">!</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE3">
+      <W ID="W20" LEMMA="-" POS="interp">-</W>
+      <W ID="W21" LEMMA="a" POS="conj">a</W>
+      <W ID="W22" LEMMA="dziecko" POS="subst:sg:gen:n">dziecka</W>
+      <W ID="W23" LEMMA="wciąż" POS="adv">wciąż</W>
+      <W ID="W24" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W25" LEMMA="mieć" POS="praet:pl:m1:imperf">mieli</W>
+      <W ID="W26" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S1">
+    <CLAUSE ID="CLAUSE4">
+      <W ID="W27" LEMMA="zdarzyć" POS="praet:sg:n:perf">Zdarzyło</W>
+      <W ID="W28" LEMMA="się" POS="qub">się</W>
+      <W ID="W29" LEMMA="pewny" POS="adj:sg:gen:m3:pos">pewnego</W>
+      <W ID="W30" LEMMA="raz" POS="subst:sg:gen:m3">razu</W>
+      <W ID="W31" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE5">
+      <W ID="W32" LEMMA="kiedy" POS="adv">kiedy</W>
+      <W ID="W33" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W34" LEMMA="zażywać" POS="praet:sg:f:imperf">zażywała</W>
+      <W ID="W35" LEMMA="kąpiel" POS="subst:sg:gen:f">kąpieli</W>
+      <W ID="W36" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE6">
+      <W ID="W37" LEMMA="że" POS="comp">że</W>
+      <W ID="W38" LEMMA="z" POS="prep:gen:nwok">z</W>
+      <W ID="W39" LEMMA="woda" POS="subst:sg:gen:f">wody</W>
+      <W ID="W40" LEMMA="wyskoczyć" POS="praet:sg:f:perf">wyskoczyła</W>
+      <W ID="W41" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W42" LEMMA="brzeg" POS="subst:sg:acc:m3">brzeg</W>
+      <W ID="W43" LEMMA="żaba" POS="subst:sg:nom:f">żaba</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE7">
+      <W ID="W44" LEMMA="i" POS="conj">i</W>
+      <W ID="W45" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W46" LEMMA="ten" POS="adj:pl:acc:n:pos">te</W>
+      <W ID="W47" LEMMA="słowo" POS="subst:pl:acc:n">słowa</W>
+      <W ID="W48" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W49" LEMMA="on" POS="ppron3:sg:gen:f:ter:akc:praep">niej</W>
+      <W ID="W50" LEMMA="przemówić" POS="praet:sg:f:perf">przemówiła</W>
+      <W ID="W51" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE8">
+      <W ID="W52" LEMMA="-" POS="interp">-</W>
+      <W ID="W53" LEMMA="twój" POS="adj:sg:nom:n:pos">Twoje</W>
+      <W ID="W54" LEMMA="pragnienie" POS="subst:sg:nom:n">pragnienie</W>
+      <W ID="W55" LEMMA="spełnić" POS="fin:sg:ter:perf">spełni</W>
+      <W ID="W56" LEMMA="się" POS="qub">się</W>
+      <W ID="W57" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE9">
+      <W ID="W58" LEMMA="nim" POS="comp">nim</W>
+      <W ID="W59" LEMMA="rok" POS="subst:sg:nom:m3">rok</W>
+      <W ID="W60" LEMMA="minąć" POS="fin:sg:ter:perf">minie</W>
+      <W ID="W61" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE10">
+      <W ID="W62" LEMMA="wydać" POS="fin:sg:sec:perf">wydasz</W>
+      <W ID="W63" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W64" LEMMA="świat" POS="subst:sg:acc:m3">świat</W>
+      <W ID="W65" LEMMA="córeczka" POS="subst:sg:acc:f">córeczkę</W>
+      <W ID="W66" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S2">
+    <CLAUSE ID="CLAUSE11">
+      <W ID="W67" LEMMA="i" POS="conj">I</W>
+      <W ID="W68" LEMMA="stać" POS="praet:sg:n:perf">stało</W>
+      <W ID="W69" LEMMA="się" POS="qub">się</W>
+      <W ID="W70" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE12">
+      <W ID="W71" LEMMA="jak" POS="adv">jak</W>
+      <W ID="W72" LEMMA="przepowiedzieć" POS="praet:sg:f:perf">przepowiedziała</W>
+      <W ID="W73" LEMMA="żaba" POS="subst:sg:nom:f">żaba</W>
+      <W ID="W74" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE13">
+      <W ID="W75" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W76" LEMMA="urodzić" POS="praet:sg:f:perf">urodziła</W>
+      <W ID="W77" LEMMA="dziewczynka" POS="subst:sg:acc:f">dziewczynkę</W>
+      <W ID="W78" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W79" LEMMA="urodziwy" POS="adj:sg:acc:f:pos">urodziwą</W>
+      <W ID="W80" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE14">
+      <W ID="W81" LEMMA="że" POS="comp">że</W>
+      <W ID="W82" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W83" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W84" LEMMA="posiadać" POS="praet:sg:m1:imperf">posiadał</W>
+      <W ID="W85" LEMMA="się" POS="qub">się</W>
+      <W ID="W86" LEMMA="z" POS="prep:gen:nwok">z</W>
+      <W ID="W87" LEMMA="radość" POS="subst:sg:gen:f">radości</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE15">
+      <W ID="W88" LEMMA="i" POS="conj">i</W>
+      <W ID="W89" LEMMA="wydać" POS="praet:sg:m1:perf">wydał</W>
+      <W ID="W90" LEMMA="wspaniały" POS="adj:sg:acc:f:pos">wspaniałą</W>
+      <W ID="W91" LEMMA="uczta" POS="subst:sg:acc:f">ucztę</W>
+      <W ID="W92" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S3">
+    <CLAUSE ID="CLAUSE16">
+      <W ID="W93" LEMMA="zaprosić" POS="praet:sg:m1:perf">Zaprosił</W>
+      <W ID="W94" LEMMA="nie" POS="conj">nie</W>
+      <W ID="W95" LEMMA="tylko" POS="conj">tylko</W>
+      <W ID="W96" LEMMA="krewny" POS="subst:pl:gen:m1">krewnych</W>
+      <W ID="W97" LEMMA="," POS="interp">,</W>
+      <W ID="W98" LEMMA="przyjaciel" POS="subst:pl:gen:m1">przyjaciół</W>
+      <W ID="W99" LEMMA="i" POS="conj">i</W>
+      <W ID="W100" LEMMA="znajomy" POS="subst:pl:gen:m1">znajomych</W>
+      <W ID="W101" LEMMA="," POS="interp">,</W>
+      <W ID="W102" LEMMA="ale" POS="conj">ale</W>
+      <W ID="W103" LEMMA="również" POS="qub">również</W>
+      <W ID="W104" LEMMA="wróżka" POS="subst:pl:nom:f">wróżki</W>
+      <W ID="W105" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE17">
+      <W ID="W106" LEMMA="aby" POS="comp">aby</W>
+      <W ID="W107" LEMMA="sprzyjać" POS="praet:pl:f:imperf">sprzyjały</W>
+      <W ID="W108" LEMMA="dziecki" POS="adjp">dziecku</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE18">
+      <W ID="W109" LEMMA="i" POS="conj">i</W>
+      <W ID="W110" LEMMA="otaczać" POS="praet:pl:m3:imperf">otaczały</W>
+      <W ID="W111" LEMMA="on" POS="ppron3:pl:acc:m3:ter:akc:npraep">je</W>
+      <W ID="W112" LEMMA="opieka" POS="subst:sg:inst:f">opieką</W>
+      <W ID="W113" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S4">
+    <CLAUSE ID="CLAUSE19">
+      <W ID="W114" LEMMA="być" POS="praet:sg:n:imperf">Było</W>
+      <W ID="W115" LEMMA="on" POS="ppron3:pl:gen:m2:ter:akc:npraep">ich</W>
+      <W ID="W116" LEMMA="trzynaście" POS="num:pl:nom:m3:rec">trzynaście</W>
+      <W ID="W117" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W118" LEMMA="cały" POS="adj:sg:loc:n:pos">całym</W>
+      <W ID="W119" LEMMA="królestwo" POS="subst:sg:loc:n">królestwie</W>
+      <W ID="W120" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE20">
+      <W ID="W121" LEMMA="ale" POS="conj">ale</W>
+      <W ID="W122" LEMMA="że" POS="comp">że</W>
+      <W ID="W123" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W124" LEMMA="pałac" POS="subst:sg:loc:m3">pałacu</W>
+      <W ID="W125" LEMMA="posiadać" POS="imps:perf">posiadano</W>
+      <W ID="W126" LEMMA="tylko" POS="qub">tylko</W>
+      <W ID="W127" LEMMA="dwanaście" POS="num:pl:acc:m3:rec">dwanaście</W>
+      <W ID="W128" LEMMA="złoty" POS="adj:pl:gen:m3:pos">złotych</W>
+      <W ID="W129" LEMMA="talerz" POS="subst:pl:gen:m3">talerzy</W>
+      <W ID="W130" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE21">
+      <W ID="W131" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W132" LEMMA="który" POS="adj:pl:loc:f:pos">których</W>
+      <W ID="W133" LEMMA="mieć" POS="praet:pl:f:imperf">miały</W>
+      <W ID="W134" LEMMA="jeść" POS="inf:imperf">jeść</W>
+      <W ID="W135" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE22" CONTINUE="CLAUSE20">
+      <W ID="W136" LEMMA="jeden" POS="adj:sg:nom:f:pos">jedna</W>
+      <W ID="W137" LEMMA="z" POS="prep:gen:nwok">z</W>
+      <W ID="W138" LEMMA="on" POS="ppron3:pl:gen:f:ter:akc:praep">nich</W>
+      <W ID="W139" LEMMA="musieć" POS="praet:sg:f:imperf">musiała</W>
+      <W ID="W140" LEMMA="zostać" POS="inf:perf">zostać</W>
+      <W ID="W141" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W142" LEMMA="dom" POS="subst:sg:loc:m3">domu</W>
+      <W ID="W143" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S5">
+    <CLAUSE ID="CLAUSE23">
+      <W ID="W144" LEMMA="po" POS="prep:loc">Po</W>
+      <W ID="W145" LEMMA="niezwykle" POS="adv:pos">niezwykle</W>
+      <W ID="W146" LEMMA="wystawny" POS="adj:sg:loc:f:pos">wystawnej</W>
+      <W ID="W147" LEMMA="uczta" POS="subst:sg:loc:f">uczcie</W>
+      <W ID="W148" LEMMA="wróżka" POS="subst:sg:gen:f">wróżki</W>
+      <W ID="W149" LEMMA="począć" POS="praet:pl:m2:perf">poczęły</W>
+      <W ID="W150" LEMMA="składać" POS="inf:imperf">składać</W>
+      <W ID="W151" LEMMA="noworodek" POS="subst:sg:dat:m2">noworodkowi</W>
+      <W ID="W152" LEMMA="dar" POS="subst:pl:acc:m3">dary</W>
+      <W ID="W153" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE24">
+      <W ID="W154" LEMMA="jeden" POS="adj:sg:nom:f:pos">jedna</W>
+      <W ID="W155" LEMMA="obdarzyć" POS="praet:sg:f:perf">obdarzyła</W>
+      <W ID="W156" LEMMA="królewna" POS="subst:sg:acc:f">królewnę</W>
+      <W ID="W157" LEMMA="cnota" POS="subst:pl:inst:f">cnotami</W>
+      <W ID="W158" LEMMA="," POS="interp">,</W>
+      <W ID="W159" LEMMA="drugi" POS="adj:sg:nom:f:pos">druga</W>
+      <W ID="W160" LEMMA="uroda" POS="subst:sg:inst:f">urodą</W>
+      <W ID="W161" LEMMA="," POS="interp">,</W>
+      <W ID="W162" LEMMA="trzeci" POS="adj:sg:nom:f:pos">trzecia</W>
+      <W ID="W163" LEMMA="bogactwo" POS="subst:sg:inst:n">bogactwem</W>
+      <W ID="W164" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE25" CONTINUE="CLAUSE23">
+      <W ID="W165" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W166" LEMMA="że" POS="comp">że</W>
+      <W ID="W167" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W168" LEMMA="koniec" POS="subst:sg:loc:m3">końcu</W>
+      <W ID="W169" LEMMA="otrzymać" POS="praet:sg:f:perf">otrzymała</W>
+      <W ID="W170" LEMMA="on" POS="ppron3:sg:nom:f:ter:akc:npraep">ona</W>
+      <W ID="W171" LEMMA="wszystko" POS="subst:sg:acc:n">wszystko</W>
+      <W ID="W172" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE26">
+      <W ID="W173" LEMMA="co" POS="subst:sg:acc:n">co</W>
+      <W ID="W174" LEMMA="tylko" POS="qub">tylko</W>
+      <W ID="W175" LEMMA="można" POS="pred">można</W>
+      <W ID="W176" LEMMA="się" POS="siebie:dat">sobie</W>
+      <W ID="W177" LEMMA="wymarzyć" POS="inf:perf">wymarzyć</W>
+      <W ID="W178" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W179" LEMMA="ten" POS="adj:sg:loc:m3:pos">tym</W>
+      <W ID="W180" LEMMA="świat" POS="subst:sg:loc:m3">świecie</W>
+      <W ID="W181" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S6">
+    <CLAUSE ID="CLAUSE27">
+      <W ID="W182" LEMMA="kiedy" POS="adv">Kiedy</W>
+      <W ID="W183" LEMMA="jedenaście" POS="num:pl:nom:f:rec">jedenaście</W>
+      <W ID="W184" LEMMA="wróżka" POS="subst:pl:gen:f">wróżek</W>
+      <W ID="W185" LEMMA="poczynić" POS="praet:sg:n:perf">poczyniło</W>
+      <W ID="W186" LEMMA="już" POS="qub">już</W>
+      <W ID="W187" LEMMA="swój" POS="adj:pl:acc:n:pos">swoje</W>
+      <W ID="W188" LEMMA="zaklęcie" POS="subst:pl:acc:n">zaklęcia</W>
+      <W ID="W189" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE28">
+      <W ID="W190" LEMMA="wkroczyć" POS="praet:sg:f:perf">wkroczyła</W>
+      <W ID="W191" LEMMA="nagle" POS="adv:pos">nagle</W>
+      <W ID="W192" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W193" LEMMA="komnata" POS="subst:sg:gen:f">komnaty</W>
+      <W ID="W194" LEMMA="trzynasta" POS="subst:sg:nom:f">trzynasta</W>
+      <W ID="W195" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S7">
+    <CLAUSE ID="CLAUSE29">
+      <W ID="W196" LEMMA="chcieć" POS="praet:sg:f:imperf">Chciała</W>
+      <W ID="W197" LEMMA="się" POS="qub">się</W>
+      <W ID="W198" LEMMA="zemścić" POS="inf:perf">zemścić</W>
+      <W ID="W199" LEMMA="za" POS="prep:acc">za</W>
+      <W ID="W200" LEMMA="to" POS="subst:sg:acc:n">to</W>
+      <W ID="W201" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE30">
+      <W ID="W202" LEMMA="że" POS="comp">że</W>
+      <W ID="W203" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W204" LEMMA="zostać" POS="praet:sg:f:perf">została</W>
+      <W ID="W205" LEMMA="zaprosić" POS="ppas:sg:nom:f:perf:aff">zaproszona</W>
+      <W ID="W206" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE31">
+      <W ID="W207" LEMMA="i" POS="conj">i</W>
+      <W ID="W208" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W209" LEMMA="witać" POS="pcon:imperf">witając</W>
+      <W ID="W210" LEMMA="się" POS="qub">się</W>
+      <W ID="W211" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W212" LEMMA="nikt" POS="subst:sg:inst:m1">nikim</W>
+      <W ID="W213" LEMMA="ani" POS="conj">ani</W>
+      <W ID="W214" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W215" LEMMA="nikt" POS="subst:sg:acc:m1">nikogo</W>
+      <W ID="W216" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W217" LEMMA="patrzyć" POS="pcon:imperf">patrząc</W>
+      <W ID="W218" LEMMA="," POS="interp">,</W>
+      <W ID="W219" LEMMA="zawołać" POS="praet:sg:f:perf">zawołała</W>
+      <W ID="W220" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W221" LEMMA="cały" POS="adj:sg:acc:m3:pos">cały</W>
+      <W ID="W222" LEMMA="głos" POS="subst:sg:acc:m3">głos</W>
+      <W ID="W223" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE32">
+      <W ID="W224" LEMMA="-" POS="interp">-</W>
+      <W ID="W225" LEMMA="niechaj" POS="qub">Niechaj</W>
+      <W ID="W226" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W227" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W228" LEMMA="piętnasty" POS="adj:sg:loc:m3:pos">piętnastym</W>
+      <W ID="W229" LEMMA="rok" POS="subst:sg:loc:m3">roku</W>
+      <W ID="W230" LEMMA="życie" POS="subst:sg:gen:n">życia</W>
+      <W ID="W231" LEMMA="ukłuć" POS="fin:sg:ter:perf">ukłuje</W>
+      <W ID="W232" LEMMA="się" POS="qub">się</W>
+      <W ID="W233" LEMMA="wrzeciono" POS="subst:sg:inst:n">wrzecionem</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE33">
+      <W ID="W234" LEMMA="i" POS="conj">i</W>
+      <W ID="W235" LEMMA="umrzeć" POS="fin:sg:ter:perf">umrze</W>
+      <W ID="W236" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S8">
+    <CLAUSE ID="CLAUSE34">
+      <W ID="W237" LEMMA="powiedzieć" POS="pant:perf">Powiedziawszy</W>
+      <W ID="W238" LEMMA="to" POS="pred">to</W>
+      <W ID="W239" LEMMA="zawrócić" POS="praet:sg:f:perf">zawróciła</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE35">
+      <W ID="W240" LEMMA="i" POS="conj">i</W>
+      <W ID="W241" LEMMA="opuścić" POS="praet:sg:f:perf">opuściła</W>
+      <W ID="W242" LEMMA="sala" POS="subst:sg:acc:f">salę</W>
+      <W ID="W243" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S9">
+    <CLAUSE ID="CLAUSE36">
+      <W ID="W244" LEMMA="wszystek" POS="adj:pl:nom:m1:pos">Wszyscy</W>
+      <W ID="W245" LEMMA="obecny" POS="adj:pl:nom:m1:pos">obecni</W>
+      <W ID="W246" LEMMA="stać" POS="praet:pl:m1:imperf">stali</W>
+      <W ID="W247" LEMMA="przerażony" POS="adj:pl:nom:m1:pos">przerażeni</W>
+      <W ID="W248" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE37">
+      <W ID="W249" LEMMA="wtedy" POS="adv">wtedy</W>
+      <W ID="W250" LEMMA="wystąpić" POS="praet:sg:f:perf">wystąpiła</W>
+      <W ID="W251" LEMMA="dwunasty" POS="adj:sg:nom:f:pos">dwunasta</W>
+      <W ID="W252" LEMMA="wróżka" POS="subst:sg:nom:f">wróżka</W>
+      <W ID="W253" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE38">
+      <W ID="W254" LEMMA="który" POS="adj:sg:nom:f:pos">która</W>
+      <W ID="W255" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W256" LEMMA="wymienić" POS="praet:sg:f:perf">wymieniła</W>
+      <W ID="W257" LEMMA="jeszcze" POS="qub">jeszcze</W>
+      <W ID="W258" LEMMA="swój" POS="adj:sg:gen:n:pos">swego</W>
+      <W ID="W259" LEMMA="życzenie" POS="subst:sg:gen:n">życzenia</W>
+      <W ID="W260" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE39">
+      <W ID="W261" LEMMA="a" POS="conj">a</W>
+      <W ID="W262" LEMMA="że" POS="comp">że</W>
+      <W ID="W263" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W264" LEMMA="móc" POS="praet:sg:f:imperf">mogła</W>
+      <W ID="W265" LEMMA="odwrócić" POS="inf:perf">odwrócić</W>
+      <W ID="W266" LEMMA="złowrogi" POS="adj:sg:gen:n:pos">złowrogiego</W>
+      <W ID="W267" LEMMA="zaklęcie" POS="subst:sg:gen:n">zaklęcia</W>
+      <W ID="W268" LEMMA="," POS="interp">,</W>
+      <W ID="W269" LEMMA="tylko" POS="qub">tylko</W>
+      <W ID="W270" LEMMA="on" POS="ppron3:pl:acc:n:ter:akc:npraep">je</W>
+      <W ID="W271" LEMMA="złagodzić" POS="inf:perf">złagodzić</W>
+      <W ID="W272" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE40" CONTINUE="CLAUSE37">
+      <W ID="W273" LEMMA="rzec" POS="praet:sg:f:perf">rzekła</W>
+      <W ID="W274" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE41">
+      <W ID="W275" LEMMA="-" POS="interp">-</W>
+      <W ID="W276" LEMMA="niech" POS="qub">Niech</W>
+      <W ID="W277" LEMMA="to" POS="pred">to</W>
+      <W ID="W278" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W279" LEMMA="być" POS="bedzie:sg:ter:imperf">będzie</W>
+      <W ID="W280" LEMMA="śmierć" POS="subst:sg:nom:f">śmierć</W>
+      <W ID="W281" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE42">
+      <W ID="W282" LEMMA="lecz" POS="conj">lecz</W>
+      <W ID="W283" LEMMA="stuletni" POS="adj:sg:nom:m3:pos">stuletni</W>
+      <W ID="W284" LEMMA="głęboki" POS="adj:sg:nom:m3:pos">głęboki</W>
+      <W ID="W285" LEMMA="sen" POS="subst:sg:nom:m3">sen</W>
+      <W ID="W286" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE43">
+      <W ID="W287" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W288" LEMMA="jaki" POS="adj:sg:nom:m3:pos">jaki</W>
+      <W ID="W289" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W290" LEMMA="zapaść" POS="fin:sg:ter:perf">zapadnie</W>
+      <W ID="W291" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S10">
+    <CLAUSE ID="CLAUSE44">
+      <W ID="W292" LEMMA="król" POS="subst:sg:nom:m1">Król</W>
+      <W ID="W293" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE45">
+      <W ID="W294" LEMMA="który" POS="adj:sg:nom:m1:pos">który</W>
+      <W ID="W295" LEMMA="pragnąć" POS="praet:sg:m1:imperf">pragnął</W>
+      <W ID="W296" LEMMA="uchronić" POS="inf:perf">uchronić</W>
+      <W ID="W297" LEMMA="ukochany" POS="adj:sg:acc:n:pos">ukochane</W>
+      <W ID="W298" LEMMA="dziecko" POS="subst:sg:acc:n">dziecko</W>
+      <W ID="W299" LEMMA="przed" POS="prep:inst:nwok">przed</W>
+      <W ID="W300" LEMMA="nieszczęście" POS="subst:sg:inst:n">nieszczęściem</W>
+      <W ID="W301" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE46" CONTINUE="CLAUSE44">
+      <W ID="W302" LEMMA="wydać" POS="praet:sg:m1:perf">wydał</W>
+      <W ID="W303" LEMMA="rozkaz" POS="subst:sg:acc:m3">rozkaz</W>
+      <W ID="W304" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE47">
+      <W ID="W305" LEMMA="aby" POS="comp">aby</W>
+      <W ID="W306" LEMMA="wszystek" POS="adj:pl:nom:n:pos">wszystkie</W>
+      <W ID="W307" LEMMA="wrzeciono" POS="subst:pl:nom:n">wrzeciona</W>
+      <W ID="W308" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W309" LEMMA="cały" POS="adj:sg:loc:m3:pos">całym</W>
+      <W ID="W310" LEMMA="on" POS="ppron3:sg:gen:m1:ter:akc:npraep">jego</W>
+      <W ID="W311" LEMMA="państwo" POS="subst:sg:loc:n">państwie</W>
+      <W ID="W312" LEMMA="zostać" POS="praet:pl:m3:perf">zostały</W>
+      <W ID="W313" LEMMA="spalony" POS="subst:pl:acc:m3">spalone</W>
+      <W ID="W314" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S11">
+    <CLAUSE ID="CLAUSE48">
+      <W ID="W315" LEMMA="dar" POS="subst:pl:nom:m3">Dary</W>
+      <W ID="W316" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE49">
+      <W ID="W317" LEMMA="jaki" POS="adj:pl:inst:f:pos">jakimi</W>
+      <W ID="W318" LEMMA="wróżka" POS="subst:sg:gen:f">wróżki</W>
+      <W ID="W319" LEMMA="obsypać" POS="praet:pl:f:perf">obsypały</W>
+      <W ID="W320" LEMMA="dzieweczka" POS="subst:sg:acc:f">dzieweczkę</W>
+      <W ID="W321" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE50" CONTINUE="CLAUSE48">
+      <W ID="W322" LEMMA="spełnić" POS="praet:pl:f:perf">spełniły</W>
+      <W ID="W323" LEMMA="się" POS="qub">się</W>
+      <W ID="W324" LEMMA="co" POS="comp">co</W>
+      <W ID="W325" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W326" LEMMA="jota" POS="subst:sg:gen:f">joty</W>
+      <W ID="W327" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE51">
+      <W ID="W328" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W329" LEMMA="być" POS="praet:sg:f:imperf">była</W>
+      <W ID="W330" LEMMA="taki" POS="adj:sg:nom:f:pos">taka</W>
+      <W ID="W331" LEMMA="śliczny" POS="adj:sg:nom:f:pos">śliczna</W>
+      <W ID="W332" LEMMA="," POS="interp">,</W>
+      <W ID="W333" LEMMA="cnotliwy" POS="adj:sg:nom:f:pos">cnotliwa</W>
+      <W ID="W334" LEMMA="," POS="interp">,</W>
+      <W ID="W335" LEMMA="milutki" POS="adj:sg:nom:f:pos">milutka</W>
+      <W ID="W336" LEMMA="i" POS="conj">i</W>
+      <W ID="W337" LEMMA="roztropny" POS="adj:sg:nom:f:pos">roztropna</W>
+      <W ID="W338" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE52">
+      <W ID="W339" LEMMA="że" POS="comp">że</W>
+      <W ID="W340" LEMMA="wystarczyć" POS="praet:sg:n:perf">wystarczyło</W>
+      <W ID="W341" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W342" LEMMA="on" POS="ppron3:sg:acc:f:ter:akc:praep">nią</W>
+      <W ID="W343" LEMMA="spojrzeć" POS="inf:perf">spojrzeć</W>
+      <W ID="W344" LEMMA="," POS="interp">,</W>
+      <W ID="W345" LEMMA="by" POS="comp">by</W>
+      <W ID="W346" LEMMA="on" POS="ppron3:sg:acc:f:ter:akc:npraep">ją</W>
+      <W ID="W347" LEMMA="pokochać" POS="inf:perf">pokochać</W>
+      <W ID="W348" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S12">
+    <CLAUSE ID="CLAUSE53">
+      <W ID="W349" LEMMA="tak" POS="adv:pos">Tak</W>
+      <W ID="W350" LEMMA="się" POS="qub">się</W>
+      <W ID="W351" LEMMA="złożyć" POS="praet:sg:n:perf">złożyło</W>
+      <W ID="W352" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE54">
+      <W ID="W353" LEMMA="że" POS="comp">że</W>
+      <W ID="W354" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W355" LEMMA="dzień" POS="subst:sg:loc:m3">dniu</W>
+      <W ID="W356" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE55">
+      <W ID="W357" LEMMA="kiedy" POS="adv">kiedy</W>
+      <W ID="W358" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W359" LEMMA="kończyć" POS="praet:sg:f:imperf">kończyła</W>
+      <W ID="W360" LEMMA="piętnaście" POS="num:pl:acc:m3:rec">piętnaście</W>
+      <W ID="W361" LEMMA="rok" POS="subst:pl:gen:m3">lat</W>
+      <W ID="W362" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE56">
+      <W ID="W363" LEMMA="ani" POS="conj">ani</W>
+      <W ID="W364" LEMMA="król" POS="subst:sg:gen:m1">króla</W>
+      <W ID="W365" LEMMA="," POS="interp">,</W>
+      <W ID="W366" LEMMA="ani" POS="conj">ani</W>
+      <W ID="W367" LEMMA="królowa" POS="subst:sg:gen:f">królowej</W>
+      <W ID="W368" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W369" LEMMA="być" POS="praet:sg:n:imperf">było</W>
+      <W ID="W370" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W371" LEMMA="dom" POS="subst:sg:loc:m3">domu</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE57">
+      <W ID="W372" LEMMA="i" POS="conj">i</W>
+      <W ID="W373" LEMMA="dziewczynka" POS="subst:sg:nom:f">dziewczynka</W>
+      <W ID="W374" LEMMA="zostać" POS="praet:sg:f:perf">została</W>
+      <W ID="W375" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W376" LEMMA="pałac" POS="subst:sg:loc:m3">pałacu</W>
+      <W ID="W377" LEMMA="zupełnie" POS="adv:pos">zupełnie</W>
+      <W ID="W378" LEMMA="sam" POS="adj:sg:nom:f:pos">sama</W>
+      <W ID="W379" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S13">
+    <CLAUSE ID="CLAUSE58">
+      <W ID="W380" LEMMA="chodzić" POS="praet:sg:f:imperf">Chodziła</W>
+      <W ID="W381" LEMMA="się" POS="siebie:dat">sobie</W>
+      <W ID="W382" LEMMA="po" POS="prep:loc">po</W>
+      <W ID="W383" LEMMA="cały" POS="adj:sg:loc:m3:pos">całym</W>
+      <W ID="W384" LEMMA="gmach" POS="subst:sg:loc:m3">gmachu</W>
+      <W ID="W385" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE59">
+      <W ID="W386" LEMMA="zaglądać" POS="praet:sg:f:imperf">zaglądała</W>
+      <W ID="W387" LEMMA="swobodnie" POS="adv:pos">swobodnie</W>
+      <W ID="W388" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W389" LEMMA="wszystek" POS="adj:pl:gen:f:pos">wszystkich</W>
+      <W ID="W390" LEMMA="komnata" POS="subst:pl:gen:f">komnat</W>
+      <W ID="W391" LEMMA="i" POS="conj">i</W>
+      <W ID="W392" LEMMA="pokój" POS="subst:pl:gen:m3">pokoi</W>
+      <W ID="W393" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE60">
+      <W ID="W394" LEMMA="aż" POS="comp">aż</W>
+      <W ID="W395" LEMMA="stanąć" POS="praet:sg:f:perf">stanęła</W>
+      <W ID="W396" LEMMA="u" POS="prep:gen">u</W>
+      <W ID="W397" LEMMA="stopa" POS="subst:pl:gen:f">stóp</W>
+      <W ID="W398" LEMMA="stary" POS="adj:sg:gen:f:pos">starej</W>
+      <W ID="W399" LEMMA="wieża" POS="subst:sg:gen:f">wieży</W>
+      <W ID="W400" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S14">
+    <CLAUSE ID="CLAUSE61">
+      <W ID="W401" LEMMA="wspiąć" POS="praet:sg:f:perf">Wspięła</W>
+      <W ID="W402" LEMMA="się" POS="qub">się</W>
+      <W ID="W403" LEMMA="po" POS="prep:loc">po</W>
+      <W ID="W404" LEMMA="kręcić" POS="ppas:pl:loc:n:imperf:aff">kręconych</W>
+      <W ID="W405" LEMMA="schody" POS="subst:pl:loc:n">schodach</W>
+      <W ID="W406" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W407" LEMMA="góra" POS="subst:sg:acc:f">górę</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE62">
+      <W ID="W408" LEMMA="i" POS="conj">i</W>
+      <W ID="W409" LEMMA="znaleźć" POS="praet:sg:f:perf">znalazła</W>
+      <W ID="W410" LEMMA="się" POS="qub">się</W>
+      <W ID="W411" LEMMA="przed" POS="prep:inst:nwok">przed</W>
+      <W ID="W412" LEMMA="maleńki" POS="adj:pl:inst:n:pos">maleńkimi</W>
+      <W ID="W413" LEMMA="drzwiczki" POS="subst:pl:inst:n">drzwiczkami</W>
+      <W ID="W414" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S15">
+    <CLAUSE ID="CLAUSE63">
+      <W ID="W415" LEMMA="w" POS="prep:loc:nwok">W</W>
+      <W ID="W416" LEMMA="zamek" POS="subst:sg:loc:m3">zamku</W>
+      <W ID="W417" LEMMA="tkwić" POS="praet:sg:m3:imperf">tkwił</W>
+      <W ID="W418" LEMMA="zardzewiały" POS="adj:sg:nom:m3:pos">zardzewiały</W>
+      <W ID="W419" LEMMA="klucz" POS="subst:sg:nom:m3">klucz</W>
+      <W ID="W420" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE64">
+      <W ID="W421" LEMMA="a" POS="conj">a</W>
+      <W ID="W422" LEMMA="kiedy" POS="adv">kiedy</W>
+      <W ID="W423" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W424" LEMMA="on" POS="ppron3:sg:acc:m1:ter:nakc:npraep">go</W>
+      <W ID="W425" LEMMA="przekręcić" POS="praet:sg:f:perf">przekręciła</W>
+      <W ID="W426" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE65">
+      <W ID="W427" LEMMA="drzwi" POS="subst:pl:nom:n">drzwi</W>
+      <W ID="W428" LEMMA="otworzyć" POS="praet:pl:n:perf">otworzyły</W>
+      <W ID="W429" LEMMA="się" POS="qub">się</W>
+      <W ID="W430" LEMMA="gwałtownie" POS="adv:pos">gwałtownie</W>
+      <W ID="W431" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE66">
+      <W ID="W432" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W433" LEMMA="izdebka" POS="subst:sg:loc:f">izdebce</W>
+      <W ID="W434" LEMMA="zaś" POS="conj">zaś</W>
+      <W ID="W435" LEMMA="siedzieć" POS="praet:sg:f:imperf">siedziała</W>
+      <W ID="W436" LEMMA="stary" POS="adj:sg:nom:f:pos">stara</W>
+      <W ID="W437" LEMMA="kobieta" POS="subst:sg:nom:f">kobieta</W>
+      <W ID="W438" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W439" LEMMA="wrzeciono" POS="subst:sg:inst:n">wrzecionem</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE67">
+      <W ID="W440" LEMMA="i" POS="conj">i</W>
+      <W ID="W441" LEMMA="prząść" POS="praet:sg:f:imperf">przędła</W>
+      <W ID="W442" LEMMA="pilnie" POS="adv:pos">pilnie</W>
+      <W ID="W443" LEMMA="Lena" POS="subst:pl:gen:f">len</W>
+      <W ID="W444" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S16">
+    <CLAUSE ID="CLAUSE68">
+      <W ID="W445" LEMMA="-" POS="interp">-</W>
+      <W ID="W446" LEMMA="dzień" POS="subst:sg:nom:m3">Dzień</W>
+      <W ID="W447" LEMMA="dobry" POS="adj:sg:nom:m3:pos">dobry</W>
+      <W ID="W448" LEMMA="," POS="interp">,</W>
+      <W ID="W449" LEMMA="babcia" POS="subst:sg:voc:f">babciu</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE69">
+      <W ID="W450" LEMMA="-" POS="interp">-</W>
+      <W ID="W451" LEMMA="rzec" POS="praet:sg:f:perf">rzekła</W>
+      <W ID="W452" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE70">
+      <W ID="W453" LEMMA="-" POS="interp">-</W>
+      <W ID="W454" LEMMA="co" POS="subst:sg:acc:n">co</W>
+      <W ID="W455" LEMMA="ty" POS="ppron12:sg:nom:m1:sec">ty</W>
+      <W ID="W456" LEMMA="tu" POS="adv">tu</W>
+      <W ID="W457" LEMMA="robić" POS="fin:sg:sec:imperf">robisz</W>
+      <W ID="W458" LEMMA="?" POS="interp">?</W>
+    </CLAUSE>
+  </S>
+  <S ID="S17">
+    <CLAUSE ID="CLAUSE71">
+      <W ID="W459" LEMMA="-" POS="interp">-</W>
+      <W ID="W460" LEMMA="prząść" POS="fin:sg:pri:imperf">Przędę</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE72">
+      <W ID="W461" LEMMA="-" POS="interp">-</W>
+      <W ID="W462" LEMMA="odeprzeć" POS="praet:sg:f:perf">odparła</W>
+      <W ID="W463" LEMMA="staruszka" POS="subst:sg:nom:f">staruszka</W>
+      <W ID="W464" LEMMA="," POS="interp">,</W>
+      <W ID="W465" LEMMA="kiwać" POS="pcon:imperf">kiwając</W>
+      <W ID="W466" LEMMA="głowa" POS="subst:sg:inst:f">głową</W>
+      <W ID="W467" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S18">
+    <CLAUSE ID="CLAUSE73">
+      <W ID="W468" LEMMA="-" POS="interp">-</W>
+      <W ID="W469" LEMMA="a" POS="conj">A</W>
+      <W ID="W470" LEMMA="co" POS="subst:sg:nom:n">co</W>
+      <W ID="W471" LEMMA="to" POS="pred">to</W>
+      <W ID="W472" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W473" LEMMA="śmiesznie" POS="adv:pos">śmiesznie</W>
+      <W ID="W474" LEMMA="podskakiwać" POS="fin:sg:ter:imperf">podskakuje</W>
+      <W ID="W475" LEMMA="?" POS="interp">?</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE74">
+      <W ID="W476" LEMMA="-" POS="interp">-</W>
+      <W ID="W477" LEMMA="spytać" POS="praet:sg:f:perf">spytała</W>
+      <W ID="W478" LEMMA="dziewczynka" POS="subst:sg:nom:f">dziewczynka</W>
+      <W ID="W479" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE75">
+      <W ID="W480" LEMMA="wziąć" POS="praet:sg:f:perf">wzięła</W>
+      <W ID="W481" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W482" LEMMA="ręka" POS="subst:sg:gen:f">ręki</W>
+      <W ID="W483" LEMMA="wrzeciono" POS="subst:sg:acc:n">wrzeciono</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE76">
+      <W ID="W484" LEMMA="i" POS="conj">i</W>
+      <W ID="W485" LEMMA="chcieć" POS="praet:sg:f:imperf">chciała</W>
+      <W ID="W486" LEMMA="także" POS="qub">także</W>
+      <W ID="W487" LEMMA="prząść" POS="inf:imperf">prząść</W>
+      <W ID="W488" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S19">
+    <CLAUSE ID="CLAUSE77">
+      <W ID="W489" LEMMA="ledwie" POS="qub">Ledwie</W>
+      <W ID="W490" LEMMA="dotknąć" POS="praet:sg:f:perf">dotknęła</W>
+      <W ID="W491" LEMMA="wrzeciono" POS="subst:pl:acc:n">wrzeciona</W>
+      <W ID="W492" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE78">
+      <W ID="W493" LEMMA="spełnić" POS="praet:sg:f:perf">spełniła</W>
+      <W ID="W494" LEMMA="się" POS="qub">się</W>
+      <W ID="W495" LEMMA="zły" POS="adj:sg:nom:f:pos">zła</W>
+      <W ID="W496" LEMMA="przepowiednia" POS="subst:sg:nom:f">przepowiednia</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE79">
+      <W ID="W497" LEMMA="i" POS="conj">i</W>
+      <W ID="W498" LEMMA="ukłuć" POS="praet:sg:f:perf">ukłuła</W>
+      <W ID="W499" LEMMA="się" POS="qub">się</W>
+      <W ID="W500" LEMMA="on" POS="ppron3:sg:inst:m1:ter:akc:npraep">nim</W>
+      <W ID="W501" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W502" LEMMA="palec" POS="subst:sg:acc:m3">palec</W>
+      <W ID="W503" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S20">
+    <CLAUSE ID="CLAUSE80">
+      <W ID="W504" LEMMA="a" POS="conj">A</W>
+      <W ID="W505" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W506" LEMMA="chwila" POS="subst:sg:loc:f">chwili</W>
+      <W ID="W507" LEMMA="gdy" POS="adv">gdy</W>
+      <W ID="W508" LEMMA="poczuć" POS="praet:sg:f:perf">poczuła</W>
+      <W ID="W509" LEMMA="ukłucie" POS="subst:sg:nom:n">ukłucie</W>
+      <W ID="W510" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE81">
+      <W ID="W511" LEMMA="paść" POS="praet:sg:f:perf">padła</W>
+      <W ID="W512" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W513" LEMMA="łóżko" POS="subst:sg:acc:n">łóżko</W>
+      <W ID="W514" LEMMA="stać" POS="pact:sg:acc:n:imperf:aff">stojące</W>
+      <W ID="W515" LEMMA="obok" POS="adv">obok</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE82">
+      <W ID="W516" LEMMA="i" POS="conj">i</W>
+      <W ID="W517" LEMMA="pogrążyć" POS="praet:sg:f:perf">pogrążyła</W>
+      <W ID="W518" LEMMA="się" POS="qub">się</W>
+      <W ID="W519" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W520" LEMMA="głęboki" POS="adj:sg:loc:m3:pos">głębokim</W>
+      <W ID="W521" LEMMA="sen" POS="subst:sg:loc:m3">śnie</W>
+      <W ID="W522" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S21">
+    <CLAUSE ID="CLAUSE83">
+      <W ID="W523" LEMMA="ten" POS="adj:sg:nom:m3:pos">Ten</W>
+      <W ID="W524" LEMMA="sen" POS="subst:sg:nom:m3">sen</W>
+      <W ID="W525" LEMMA="ogarnąć" POS="praet:sg:m3:perf">ogarnął</W>
+      <W ID="W526" LEMMA="również" POS="qub">również</W>
+      <W ID="W527" LEMMA="cały" POS="adj:sg:acc:m3:pos">cały</W>
+      <W ID="W528" LEMMA="pałac" POS="subst:sg:acc:m3">pałac</W>
+      <W ID="W529" LEMMA=":" POS="interp">:</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE84">
+      <W ID="W530" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W531" LEMMA="i" POS="conj">i</W>
+      <W ID="W532" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W533" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE85">
+      <W ID="W534" LEMMA="który" POS="adj:pl:nom:m1:pos">którzy</W>
+      <W ID="W535" LEMMA="wrócić" POS="praet:pl:m1:perf">wrócili</W>
+      <W ID="W536" LEMMA="właśnie" POS="qub">właśnie</W>
+      <W ID="W537" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W538" LEMMA="dom" POS="subst:sg:gen:m3">domu</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE86">
+      <W ID="W539" LEMMA="i" POS="conj">i</W>
+      <W ID="W540" LEMMA="wkraczać" POS="praet:pl:m1:imperf">wkraczali</W>
+      <W ID="W541" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W542" LEMMA="sala" POS="subst:sg:acc:f">salę</W>
+      <W ID="W543" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE87" CONTINUE="CLAUSE84">
+      <W ID="W544" LEMMA="zasnąć" POS="praet:pl:m1:perf">zasnęli</W>
+      <W ID="W545" LEMMA="wraz" POS="burk">wraz</W>
+      <W ID="W546" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W547" LEMMA="cały" POS="adj:sg:inst:m3:pos">całym</W>
+      <W ID="W548" LEMMA="swój" POS="adj:sg:inst:m3:pos">swym</W>
+      <W ID="W549" LEMMA="dwór" POS="subst:sg:inst:m3">dworem</W>
+      <W ID="W550" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S22">
+    <CLAUSE ID="CLAUSE88">
+      <W ID="W551" LEMMA="zasnąć" POS="praet:pl:m2:perf">Zasnęły</W>
+      <W ID="W552" LEMMA="koń" POS="subst:pl:nom:m2">konie</W>
+      <W ID="W553" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W554" LEMMA="stajnia" POS="subst:sg:loc:f">stajni</W>
+      <W ID="W555" LEMMA="," POS="interp">,</W>
+      <W ID="W556" LEMMA="pies" POS="subst:pl:nom:m2">psy</W>
+      <W ID="W557" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W558" LEMMA="podwórze" POS="subst:sg:loc:n">podwórzu</W>
+      <W ID="W559" LEMMA="," POS="interp">,</W>
+      <W ID="W560" LEMMA="gołąb" POS="subst:pl:nom:m2">gołębie</W>
+      <W ID="W561" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W562" LEMMA="dach" POS="subst:sg:loc:m3">dachu</W>
+      <W ID="W563" LEMMA="," POS="interp">,</W>
+      <W ID="W564" LEMMA="mucha" POS="subst:pl:nom:f">muchy</W>
+      <W ID="W565" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W566" LEMMA="ściana" POS="subst:sg:loc:f">ścianie</W>
+      <W ID="W567" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE89">
+      <W ID="W568" LEMMA="a" POS="conj">a</W>
+      <W ID="W569" LEMMA="nawet" POS="qub">nawet</W>
+      <W ID="W570" LEMMA="ogień" POS="subst:sg:nom:m3">ogień</W>
+      <W ID="W571" LEMMA="płonąć" POS="pact:sg:acc:m3:imperf:aff">płonący</W>
+      <W ID="W572" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W573" LEMMA="kuchenny" POS="adj:sg:loc:m3:pos">kuchennym</W>
+      <W ID="W574" LEMMA="piec" POS="subst:sg:loc:m3">piecu</W>
+      <W ID="W575" LEMMA="zgasnąć" POS="praet:sg:m1:perf">zgasł</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE90">
+      <W ID="W576" LEMMA="i" POS="conj">i</W>
+      <W ID="W577" LEMMA="usnąć" POS="praet:sg:m1:perf">usnął</W>
+      <W ID="W578" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE91">
+      <W ID="W579" LEMMA="a" POS="conj">a</W>
+      <W ID="W580" LEMMA="pieczeń" POS="subst:sg:nom:f">pieczeń</W>
+      <W ID="W581" LEMMA="przestać" POS="praet:sg:f:perf">przestała</W>
+      <W ID="W582" LEMMA="się" POS="qub">się</W>
+      <W ID="W583" LEMMA="dusić" POS="inf:imperf">dusić</W>
+      <W ID="W584" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE92">
+      <W ID="W585" LEMMA="i" POS="conj">i</W>
+      <W ID="W586" LEMMA="kucharz" POS="subst:sg:nom:m1">kucharz</W>
+      <W ID="W587" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE93">
+      <W ID="W588" LEMMA="który" POS="adj:sg:nom:m1:pos">który</W>
+      <W ID="W589" LEMMA="chcieć" POS="praet:sg:m1:imperf">chciał</W>
+      <W ID="W590" LEMMA="pociągnąć" POS="inf:perf">pociągnąć</W>
+      <W ID="W591" LEMMA="za" POS="prep:acc">za</W>
+      <W ID="W592" LEMMA="włos" POS="subst:pl:acc:m3">włosy</W>
+      <W ID="W593" LEMMA="kuchcik" POS="subst:sg:gen:m1">kuchcika</W>
+      <W ID="W594" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE94">
+      <W ID="W595" LEMMA="bo" POS="comp">bo</W>
+      <W ID="W596" LEMMA="coś" POS="subst:sg:nom:n">coś</W>
+      <W ID="W597" LEMMA="przeskrobać" POS="praet:sg:m1:perf">przeskrobał</W>
+      <W ID="W598" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE95" CONTINUE="CLAUSE93">
+      <W ID="W599" LEMMA="puścić" POS="praet:sg:m1:perf">puścił</W>
+      <W ID="W600" LEMMA="on" POS="ppron3:sg:gen:m1:ter:akc:npraep">jego</W>
+      <W ID="W601" LEMMA="czupryna" POS="subst:sg:acc:f">czuprynę</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE96">
+      <W ID="W602" LEMMA="i" POS="conj">i</W>
+      <W ID="W603" LEMMA="zasnąć" POS="praet:sg:m1:perf">zasnął</W>
+      <W ID="W604" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S23">
+    <CLAUSE ID="CLAUSE97">
+      <W ID="W605" LEMMA="i" POS="conj">I</W>
+      <W ID="W606" LEMMA="wiatr" POS="subst:sg:nom:m3">wiatr</W>
+      <W ID="W607" LEMMA="ucichnąć" POS="praet:sg:m3:perf">ucichł</W>
+      <W ID="W608" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE98">
+      <W ID="W609" LEMMA="a" POS="conj">a</W>
+      <W ID="W610" LEMMA="liście" POS="subst:sg:nom:n">liście</W>
+      <W ID="W611" LEMMA="drzewo" POS="subst:pl:gen:n">drzew</W>
+      <W ID="W612" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W613" LEMMA="dziedziniec" POS="subst:sg:loc:m3">dziedzińcu</W>
+      <W ID="W614" LEMMA="znieruchomiać" POS="praet:pl:f:imperf">znieruchomiały</W>
+      <W ID="W615" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S24">
+    <CLAUSE ID="CLAUSE99">
+      <W ID="W616" LEMMA="wokół" POS="prep:gen">Wokół</W>
+      <W ID="W617" LEMMA="pałac" POS="subst:sg:gen:m3">pałacu</W>
+      <W ID="W618" LEMMA="zacząć" POS="praet:sg:m1:perf">zaczął</W>
+      <W ID="W619" LEMMA="rosnąć" POS="inf:imperf">rosnąć</W>
+      <W ID="W620" LEMMA="cierniowy" POS="adj:sg:acc:m3:pos">cierniowy</W>
+      <W ID="W621" LEMMA="żywopłot" POS="subst:sg:acc:m3">żywopłot</W>
+      <W ID="W622" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE100">
+      <W ID="W623" LEMMA="który" POS="adj:sg:nom:m3:pos">który</W>
+      <W ID="W624" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W625" LEMMA="każdy" POS="adj:sg:inst:m3:pos">każdym</W>
+      <W ID="W626" LEMMA="rok" POS="subst:sg:inst:m3">rokiem</W>
+      <W ID="W627" LEMMA="stawać" POS="praet:sg:m3:imperf">stawał</W>
+      <W ID="W628" LEMMA="się" POS="qub">się</W>
+      <W ID="W629" LEMMA="coraz" POS="adv">coraz</W>
+      <W ID="W630" LEMMA="wysoki" POS="adj:sg:nom:m3:com">wyższy</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE101">
+      <W ID="W631" LEMMA="i" POS="conj">i</W>
+      <W ID="W632" LEMMA="wreszcie" POS="qub">wreszcie</W>
+      <W ID="W633" LEMMA="zarość" POS="praet:sg:m1:perf:nagl">zarósł</W>
+      <W ID="W634" LEMMA="cały" POS="adj:sg:acc:m3:pos">cały</W>
+      <W ID="W635" LEMMA="pałac" POS="subst:sg:acc:m3">pałac</W>
+      <W ID="W636" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE102">
+      <W ID="W637" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W638" LEMMA="że" POS="comp">że</W>
+      <W ID="W639" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W640" LEMMA="być" POS="praet:sg:n:imperf">było</W>
+      <W ID="W641" LEMMA="on" POS="ppron3:sg:gen:m1:ter:nakc:npraep">go</W>
+      <W ID="W642" LEMMA="już" POS="qub">już</W>
+      <W ID="W643" LEMMA="wcale" POS="adv">wcale</W>
+      <W ID="W644" LEMMA="widać" POS="pred">widać</W>
+      <W ID="W645" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE103">
+      <W ID="W646" LEMMA="zniknąć" POS="praet:sg:f:perf">znikła</W>
+      <W ID="W647" LEMMA="nawet" POS="qub">nawet</W>
+      <W ID="W648" LEMMA="chorągiewka" POS="subst:sg:nom:f">chorągiewka</W>
+      <W ID="W649" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W650" LEMMA="dach" POS="subst:sg:loc:m3">dachu</W>
+      <W ID="W651" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S25">
+    <CLAUSE ID="CLAUSE104">
+      <W ID="W652" LEMMA="po" POS="prep:loc">Po</W>
+      <W ID="W653" LEMMA="kraj" POS="subst:sg:loc:m3">kraju</W>
+      <W ID="W654" LEMMA="zaś" POS="conj">zaś</W>
+      <W ID="W655" LEMMA="rozejść" POS="praet:sg:f:perf">rozeszła</W>
+      <W ID="W656" LEMMA="się" POS="qub">się</W>
+      <W ID="W657" LEMMA="wieść" POS="subst:sg:nom:f">wieść</W>
+      <W ID="W658" LEMMA="o" POS="prep:loc">o</W>
+      <W ID="W659" LEMMA="śpiący" POS="adj:sg:loc:f:pos">śpiącej</W>
+      <W ID="W660" LEMMA="królewna" POS="subst:sg:loc:f">królewnie</W>
+      <W ID="W661" LEMMA="różyczka" POS="subst:sg:loc:f">Różyczce</W>
+      <W ID="W662" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE105">
+      <W ID="W663" LEMMA="bo" POS="comp">bo</W>
+      <W ID="W664" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W665" LEMMA="on" POS="ppron3:sg:acc:f:ter:akc:npraep">ją</W>
+      <W ID="W666" LEMMA="nazywać" POS="imps:imperf">nazywano</W>
+      <W ID="W667" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE106" CONTINUE="CLAUSE104">
+      <W ID="W668" LEMMA="i" POS="conj">i</W>
+      <W ID="W669" LEMMA="coraz" POS="adv">coraz</W>
+      <W ID="W670" LEMMA="to" POS="qub">to</W>
+      <W ID="W671" LEMMA="jakiś" POS="adj:sg:nom:m1:pos">jakiś</W>
+      <W ID="W672" LEMMA="królewicz" POS="subst:sg:nom:m1">królewicz</W>
+      <W ID="W673" LEMMA="przybywać" POS="praet:sg:m1:imperf">przybywał</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE107">
+      <W ID="W674" LEMMA="i" POS="conj">i</W>
+      <W ID="W675" LEMMA="chcieć" POS="praet:sg:m1:imperf">chciał</W>
+      <W ID="W676" LEMMA="przedrzeć" POS="inf:perf">przedrzeć</W>
+      <W ID="W677" LEMMA="się" POS="qub">się</W>
+      <W ID="W678" LEMMA="przez" POS="prep:acc:nwok">przez</W>
+      <W ID="W679" LEMMA="gęsty" POS="adj:sg:acc:m3:pos">gęsty</W>
+      <W ID="W680" LEMMA="żywopłot" POS="subst:sg:acc:m3">żywopłot</W>
+      <W ID="W681" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S26">
+    <CLAUSE ID="CLAUSE108">
+      <W ID="W682" LEMMA="żaden" POS="adj:sg:dat:m1:pos">Żadnemu</W>
+      <W ID="W683" LEMMA="się" POS="qub">się</W>
+      <W ID="W684" LEMMA="to" POS="subst:sg:nom:n">to</W>
+      <W ID="W685" LEMMA="jednak" POS="conj">jednak</W>
+      <W ID="W686" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W687" LEMMA="udać" POS="praet:sg:n:perf">udało</W>
+      <W ID="W688" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE109">
+      <W ID="W689" LEMMA="bowiem" POS="comp">bowiem</W>
+      <W ID="W690" LEMMA="cierń" POS="subst:pl:nom:m3">ciernie</W>
+      <W ID="W691" LEMMA="powstrzymywać" POS="praet:pl:m3:imperf">powstrzymywały</W>
+      <W ID="W692" LEMMA="każdy" POS="adj:sg:gen:m3:pos">każdego</W>
+      <W ID="W693" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE110">
+      <W ID="W694" LEMMA="jakby" POS="comp">jakby</W>
+      <W ID="W695" LEMMA="mieć" POS="praet:pl:f:imperf">miały</W>
+      <W ID="W696" LEMMA="ręka" POS="subst:pl:acc:f">ręce</W>
+      <W ID="W697" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE111" CONTINUE="CLAUSE108">
+      <W ID="W698" LEMMA="i" POS="conj">i</W>
+      <W ID="W699" LEMMA="młodzieniec" POS="subst:pl:nom:m1">młodzieńcy</W>
+      <W ID="W700" LEMMA="," POS="interp">,</W>
+      <W ID="W701" LEMMA="wczepić" POS="ppas:pl:nom:m1:perf:aff">wczepieni</W>
+      <W ID="W702" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W703" LEMMA="on" POS="ppron3:pl:acc:m3:ter:akc:praep">nie</W>
+      <W ID="W704" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE112">
+      <W ID="W705" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W706" LEMMA="móc" POS="praet:pl:m1:imperf">mogli</W>
+      <W ID="W707" LEMMA="się" POS="qub">się</W>
+      <W ID="W708" LEMMA="już" POS="qub">już</W>
+      <W ID="W709" LEMMA="wyzwolić" POS="inf:perf">wyzwolić</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE113">
+      <W ID="W710" LEMMA="i" POS="conj">i</W>
+      <W ID="W711" LEMMA="umierać" POS="praet:pl:m1:imperf">umierali</W>
+      <W ID="W712" LEMMA="żałosny" POS="adj:sg:acc:f:pos">żałosną</W>
+      <W ID="W713" LEMMA="śmierć" POS="subst:sg:inst:f">śmiercią</W>
+      <W ID="W714" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S27">
+    <CLAUSE ID="CLAUSE114">
+      <W ID="W715" LEMMA="po" POS="prep:loc">Po</W>
+      <W ID="W716" LEMMA="wiele" POS="num:pl:loc:m3:congr">wielu</W>
+      <W ID="W717" LEMMA="," POS="interp">,</W>
+      <W ID="W718" LEMMA="wiele" POS="num:pl:loc:m3:congr">wielu</W>
+      <W ID="W719" LEMMA="rok" POS="subst:pl:loc:m3">latach</W>
+      <W ID="W720" LEMMA="przybyć" POS="praet:sg:m1:perf">przybył</W>
+      <W ID="W721" LEMMA="znów" POS="qub">znów</W>
+      <W ID="W722" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W723" LEMMA="kraj" POS="subst:sg:gen:m3">kraju</W>
+      <W ID="W724" LEMMA="ten" POS="adj:sg:gen:m3:pos">tego</W>
+      <W ID="W725" LEMMA="młody" POS="adj:sg:nom:m1:pos">młody</W>
+      <W ID="W726" LEMMA="królewicz" POS="subst:sg:nom:m1">królewicz</W>
+      <W ID="W727" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S28">
+    <CLAUSE ID="CLAUSE115">
+      <W ID="W728" LEMMA="słyszeć" POS="praet:sg:m1:imperf">Słyszał</W>
+      <W ID="W729" LEMMA="on" POS="ppron3:sg:nom:m1:ter:akc:npraep">on</W>
+      <W ID="W730" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE116">
+      <W ID="W731" LEMMA="jak" POS="adv">jak</W>
+      <W ID="W732" LEMMA="jakiś" POS="adj:sg:nom:m1:pos">jakiś</W>
+      <W ID="W733" LEMMA="starzec" POS="subst:sg:nom:m1">starzec</W>
+      <W ID="W734" LEMMA="opowiadać" POS="fin:sg:ter:imperf">opowiada</W>
+      <W ID="W735" LEMMA="o" POS="prep:loc">o</W>
+      <W ID="W736" LEMMA="cierniowy" POS="adj:sg:loc:m3:pos">cierniowym</W>
+      <W ID="W737" LEMMA="żywopłot" POS="subst:sg:loc:m3">żywopłocie</W>
+      <W ID="W738" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE117">
+      <W ID="W739" LEMMA="za" POS="prep:inst">za</W>
+      <W ID="W740" LEMMA="który" POS="adj:sg:inst:m3:pos">którym</W>
+      <W ID="W741" LEMMA="ukryć" POS="ppas:sg:nom:m3:perf:aff">ukryty</W>
+      <W ID="W742" LEMMA="być" POS="fin:sg:ter:imperf">jest</W>
+      <W ID="W743" LEMMA="pałac" POS="subst:sg:nom:m3">pałac</W>
+      <W ID="W744" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE118">
+      <W ID="W745" LEMMA="a" POS="conj">a</W>
+      <W ID="W746" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W747" LEMMA="on" POS="ppron3:sg:loc:m3:ter:akc:praep">nim</W>
+      <W ID="W748" LEMMA="od" POS="prep:gen:nwok">od</W>
+      <W ID="W749" LEMMA="sto" POS="num:pl:gen:m3:congr">stu</W>
+      <W ID="W750" LEMMA="rok" POS="subst:pl:gen:m3">lat</W>
+      <W ID="W751" LEMMA="spać" POS="fin:sg:ter:imperf">śpi</W>
+      <W ID="W752" LEMMA="prześliczny" POS="adj:sg:nom:f:pos">prześliczna</W>
+      <W ID="W753" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W754" LEMMA="," POS="interp">,</W>
+      <W ID="W755" LEMMA="zwać" POS="ppas:sg:nom:f:imperf:aff">zwana</W>
+      <W ID="W756" LEMMA="różyczka" POS="subst:sg:inst:f">Różyczką</W>
+      <W ID="W757" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE119">
+      <W ID="W758" LEMMA="wraz" POS="burk">wraz</W>
+      <W ID="W759" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W760" LEMMA="on" POS="ppron3:sg:inst:f:ter:akc:praep">nią</W>
+      <W ID="W761" LEMMA="zaś" POS="conj">zaś</W>
+      <W ID="W762" LEMMA="spać" POS="fin:pl:ter:imperf">śpią</W>
+      <W ID="W763" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W764" LEMMA="i" POS="conj">i</W>
+      <W ID="W765" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W766" LEMMA="," POS="interp">,</W>
+      <W ID="W767" LEMMA="i" POS="conj">i</W>
+      <W ID="W768" LEMMA="wszystek" POS="adj:pl:nom:m1:pos">wszyscy</W>
+      <W ID="W769" LEMMA="dworzanin" POS="subst:pl:nom:m1">dworzanie</W>
+      <W ID="W770" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S29">
+    <CLAUSE ID="CLAUSE120">
+      <W ID="W771" LEMMA="od" POS="prep:gen:nwok">Od</W>
+      <W ID="W772" LEMMA="swój" POS="adj:sg:gen:m1:pos">swego</W>
+      <W ID="W773" LEMMA="dziadek" POS="subst:sg:gen:m1">dziadka</W>
+      <W ID="W774" LEMMA="wiedzieć" POS="praet:sg:m1:imperf">wiedział</W>
+      <W ID="W775" LEMMA="również" POS="qub">również</W>
+      <W ID="W776" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE121">
+      <W ID="W777" LEMMA="że" POS="comp">że</W>
+      <W ID="W778" LEMMA="wiele" POS="num:pl:nom:m1:rec">wielu</W>
+      <W ID="W779" LEMMA="już" POS="qub">już</W>
+      <W ID="W780" LEMMA="królewicz" POS="subst:pl:gen:m1">królewiczów</W>
+      <W ID="W781" LEMMA="próbować" POS="praet:sg:n:imperf">próbowało</W>
+      <W ID="W782" LEMMA="przedrzeć" POS="inf:perf">przedrzeć</W>
+      <W ID="W783" LEMMA="się" POS="qub">się</W>
+      <W ID="W784" LEMMA="przez" POS="prep:acc:nwok">przez</W>
+      <W ID="W785" LEMMA="ów" POS="adj:sg:acc:m3:pos">ów</W>
+      <W ID="W786" LEMMA="żywopłot" POS="subst:sg:acc:m3">żywopłot</W>
+      <W ID="W787" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE122">
+      <W ID="W788" LEMMA="ale" POS="conj">ale</W>
+      <W ID="W789" LEMMA="zawiśle" POS="subst:pl:gen:n">zawiśli</W>
+      <W ID="W790" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W791" LEMMA="on" POS="ppron3:sg:loc:m3:ter:akc:praep">nim</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE123">
+      <W ID="W792" LEMMA="i" POS="conj">i</W>
+      <W ID="W793" LEMMA="zginąć" POS="praet:pl:m1:perf">zginęli</W>
+      <W ID="W794" LEMMA="smutny" POS="adj:sg:acc:f:pos">smutną</W>
+      <W ID="W795" LEMMA="śmierć" POS="subst:sg:inst:f">śmiercią</W>
+      <W ID="W796" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S30">
+    <CLAUSE ID="CLAUSE124">
+      <W ID="W797" LEMMA="-" POS="interp">-</W>
+      <W ID="W798" LEMMA="ja" POS="ppron12:sg:nom:m1:pri">Ja</W>
+      <W ID="W799" LEMMA="się" POS="qub">się</W>
+      <W ID="W800" LEMMA="nic" POS="subst:sg:gen:n">niczego</W>
+      <W ID="W801" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W802" LEMMA="bać" POS="fin:sg:pri:imperf">boję</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE125">
+      <W ID="W803" LEMMA="-" POS="interp">-</W>
+      <W ID="W804" LEMMA="rzec" POS="praet:sg:m1:perf">rzekł</W>
+      <W ID="W805" LEMMA="młodzieniec" POS="subst:sg:nom:m1">młodzieniec</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE126">
+      <W ID="W806" LEMMA="-" POS="interp">-</W>
+      <W ID="W807" LEMMA="udać" POS="fin:sg:pri:perf">udam</W>
+      <W ID="W808" LEMMA="się" POS="qub">się</W>
+      <W ID="W809" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W810" LEMMA="zaczarowany" POS="adj:sg:gen:m3:pos">zaczarowanego</W>
+      <W ID="W811" LEMMA="pałac" POS="subst:sg:gen:m3">pałacu</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE127">
+      <W ID="W812" LEMMA="i" POS="conj">i</W>
+      <W ID="W813" LEMMA="zobaczyć" POS="fin:sg:pri:perf">zobaczę</W>
+      <W ID="W814" LEMMA="śliczny" POS="adj:sg:acc:f:pos">śliczną</W>
+      <W ID="W815" LEMMA="różyczka" POS="subst:sg:acc:f">Różyczkę</W>
+      <W ID="W816" LEMMA="!" POS="interp">!</W>
+    </CLAUSE>
+  </S>
+  <S ID="S31">
+    <CLAUSE ID="CLAUSE128">
+      <W ID="W817" LEMMA="poczciwy" POS="adj:sg:nom:m1:pos">Poczciwy</W>
+      <W ID="W818" LEMMA="starzec" POS="subst:sg:nom:m1">starzec</W>
+      <W ID="W819" LEMMA="odradzać" POS="praet:sg:m1:imperf">odradzał</W>
+      <W ID="W820" LEMMA="on" POS="ppron3:sg:dat:m1:ter:nakc:npraep">mu</W>
+      <W ID="W821" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE129">
+      <W ID="W822" LEMMA="jak" POS="adv">jak</W>
+      <W ID="W823" LEMMA="móc" POS="praet:sg:m1:imperf:nagl">mógł</W>
+      <W ID="W824" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE130" CONTINUE="CLAUSE128">
+      <W ID="W825" LEMMA="ale" POS="conj">ale</W>
+      <W ID="W826" LEMMA="on" POS="ppron3:sg:nom:m1:ter:akc:npraep">on</W>
+      <W ID="W827" LEMMA="wcale" POS="adv">wcale</W>
+      <W ID="W828" LEMMA="on" POS="ppron3:sg:gen:m1:ter:nakc:npraep">go</W>
+      <W ID="W829" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W830" LEMMA="słuchać" POS="praet:sg:m1:imperf">słuchał</W>
+      <W ID="W831" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S32">
+    <CLAUSE ID="CLAUSE131">
+      <W ID="W832" LEMMA="a" POS="conj">A</W>
+      <W ID="W833" LEMMA="wtedy" POS="adv">wtedy</W>
+      <W ID="W834" LEMMA="właśnie" POS="qub">właśnie</W>
+      <W ID="W835" LEMMA="minąć" POS="praet:sg:n:perf">minęło</W>
+      <W ID="W836" LEMMA="sto" POS="num:pl:acc:m3:rec">sto</W>
+      <W ID="W837" LEMMA="rok" POS="subst:pl:gen:m3">lat</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE132">
+      <W ID="W838" LEMMA="i" POS="conj">i</W>
+      <W ID="W839" LEMMA="nadejść" POS="praet:sg:m3:perf">nadszedł</W>
+      <W ID="W840" LEMMA="dzień" POS="subst:sg:nom:m3">dzień</W>
+      <W ID="W841" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE133">
+      <W ID="W842" LEMMA="w" POS="prep:loc:nwok">w</W>
+      <W ID="W843" LEMMA="który" POS="adj:sg:loc:m3:pos">którym</W>
+      <W ID="W844" LEMMA="śpiący" POS="adj:sg:nom:f:pos">śpiąca</W>
+      <W ID="W845" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W846" LEMMA="mieć" POS="praet:sg:f:imperf">miała</W>
+      <W ID="W847" LEMMA="się" POS="qub">się</W>
+      <W ID="W848" LEMMA="zbudzić" POS="inf:perf">zbudzić</W>
+      <W ID="W849" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S33">
+    <CLAUSE ID="CLAUSE134">
+      <W ID="W850" LEMMA="kiedy" POS="adv">Kiedy</W>
+      <W ID="W851" LEMMA="królewicz" POS="subst:sg:nom:m1">królewicz</W>
+      <W ID="W852" LEMMA="zbliżyć" POS="praet:sg:m1:perf">zbliżył</W>
+      <W ID="W853" LEMMA="się" POS="qub">się</W>
+      <W ID="W854" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W855" LEMMA="żywopłot" POS="subst:sg:gen:m3">żywopłotu</W>
+      <W ID="W856" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE135">
+      <W ID="W857" LEMMA="być" POS="praet:sg:m1:imperf">był</W>
+      <W ID="W858" LEMMA="on" POS="ppron3:sg:nom:m1:ter:akc:npraep">on</W>
+      <W ID="W859" LEMMA="pokryć" POS="ppas:sg:nom:m1:perf:aff">pokryty</W>
+      <W ID="W860" LEMMA="wielki" POS="subst:pl:inst:m1">wielkimi</W>
+      <W ID="W861" LEMMA="wspaniały" POS="adj:pl:inst:m3:pos">wspaniałymi</W>
+      <W ID="W862" LEMMA="kwiat" POS="subst:pl:inst:m3">kwiatami</W>
+      <W ID="W863" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE136">
+      <W ID="W864" LEMMA="który" POS="adj:pl:nom:m3:pos">które</W>
+      <W ID="W865" LEMMA="sam" POS="adj:pl:nom:f:pos">same</W>
+      <W ID="W866" LEMMA="się" POS="qub">się</W>
+      <W ID="W867" LEMMA="przed" POS="prep:inst:nwok">przed</W>
+      <W ID="W868" LEMMA="on" POS="ppron3:sg:inst:m1:ter:akc:praep">nim</W>
+      <W ID="W869" LEMMA="rozstąpić" POS="praet:pl:f:perf">rozstąpiły</W>
+      <W ID="W870" LEMMA="," POS="interp">,</W>
+      <W ID="W871" LEMMA="wpuszczać" POS="pcon:imperf">wpuszczając</W>
+      <W ID="W872" LEMMA="on" POS="ppron3:sg:acc:m1:ter:nakc:npraep">go</W>
+      <W ID="W873" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W874" LEMMA="środek" POS="subst:sg:gen:m3">środka</W>
+      <W ID="W875" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE137">
+      <W ID="W876" LEMMA="a" POS="conj">a</W>
+      <W ID="W877" LEMMA="potem" POS="adv">potem</W>
+      <W ID="W878" LEMMA="zewrzeć" POS="praet:pl:f:perf">zwarły</W>
+      <W ID="W879" LEMMA="się" POS="qub">się</W>
+      <W ID="W880" LEMMA="znowu" POS="qub">znowu</W>
+      <W ID="W881" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W882" LEMMA="gęsty" POS="adj:sg:acc:m3:pos">gęsty</W>
+      <W ID="W883" LEMMA="żywopłot" POS="subst:sg:acc:m3">żywopłot</W>
+      <W ID="W884" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S34">
+    <CLAUSE ID="CLAUSE138">
+      <W ID="W885" LEMMA="na" POS="prep:loc">Na</W>
+      <W ID="W886" LEMMA="dziedziniec" POS="subst:sg:loc:m3">dziedzińcu</W>
+      <W ID="W887" LEMMA="pałacowy" POS="adj:sg:loc:m3:pos">pałacowym</W>
+      <W ID="W888" LEMMA="królewicz" POS="subst:sg:nom:m1">królewicz</W>
+      <W ID="W889" LEMMA="ujrzeć" POS="praet:sg:m1:perf">ujrzał</W>
+      <W ID="W890" LEMMA="uśpić" POS="ppas:pl:nom:n:perf:aff">uśpione</W>
+      <W ID="W891" LEMMA="koń" POS="subst:pl:nom:m2">konie</W>
+      <W ID="W892" LEMMA="i" POS="conj">i</W>
+      <W ID="W893" LEMMA="także" POS="qub">także</W>
+      <W ID="W894" LEMMA="pies" POS="subst:pl:nom:m2">psy</W>
+      <W ID="W895" LEMMA="myśliwski" POS="adj:pl:nom:m2:pos">myśliwskie</W>
+      <W ID="W896" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE139">
+      <W ID="W897" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W898" LEMMA="dach" POS="subst:sg:loc:m3">dachu</W>
+      <W ID="W899" LEMMA="siedzieć" POS="praet:pl:m3:imperf">siedziały</W>
+      <W ID="W900" LEMMA="Gołąb" POS="subst:pl:acc:m3">gołębie</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE140">
+      <W ID="W901" LEMMA="i" POS="conj">i</W>
+      <W ID="W902" LEMMA="każdy" POS="adj:sg:nom:m1:pos">każdy</W>
+      <W ID="W903" LEMMA="mieć" POS="praet:sg:m1:imperf">miał</W>
+      <W ID="W904" LEMMA="łepek" POS="subst:sg:acc:m3">łepek</W>
+      <W ID="W905" LEMMA="schować" POS="ppas:sg:acc:m3:perf:aff">schowany</W>
+      <W ID="W906" LEMMA="pod" POS="prep:acc:nwok">pod</W>
+      <W ID="W907" LEMMA="skrzydełko" POS="subst:sg:acc:n">skrzydełko</W>
+      <W ID="W908" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S35">
+    <CLAUSE ID="CLAUSE141">
+      <W ID="W909" LEMMA="a" POS="conj">A</W>
+      <W ID="W910" LEMMA="kiedy" POS="adv">kiedy</W>
+      <W ID="W911" LEMMA="przekroczyć" POS="praet:sg:m1:perf">przekroczył</W>
+      <W ID="W912" LEMMA="próg" POS="subst:sg:acc:m3">próg</W>
+      <W ID="W913" LEMMA="pałac" POS="subst:sg:gen:m3">pałacu</W>
+      <W ID="W914" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE142">
+      <W ID="W915" LEMMA="mucha" POS="subst:pl:nom:f">muchy</W>
+      <W ID="W916" LEMMA="spała" POS="subst:sg:gen:f">spały</W>
+      <W ID="W917" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W918" LEMMA="ściana" POS="subst:pl:loc:f">ścianach</W>
+      <W ID="W919" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE143">
+      <W ID="W920" LEMMA="kucharz" POS="subst:sg:nom:m1">kucharz</W>
+      <W ID="W921" LEMMA="stać" POS="praet:sg:m1:imperf">stał</W>
+      <W ID="W922" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W923" LEMMA="wyciągnąć" POS="ppas:sg:inst:f:perf:aff">wyciągniętą</W>
+      <W ID="W924" LEMMA="ręka" POS="subst:sg:inst:f">ręką</W>
+      <W ID="W925" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE144">
+      <W ID="W926" LEMMA="jakby" POS="comp">jakby</W>
+      <W ID="W927" LEMMA="chcieć" POS="praet:sg:m1:imperf">chciał</W>
+      <W ID="W928" LEMMA="chwycić" POS="inf:perf">chwycić</W>
+      <W ID="W929" LEMMA="kuchcik" POS="subst:sg:acc:m1">kuchcika</W>
+      <W ID="W930" LEMMA="za" POS="prep:acc">za</W>
+      <W ID="W931" LEMMA="czupryna" POS="subst:sg:acc:f">czuprynę</W>
+      <W ID="W932" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE145" CONTINUE="CLAUSE143">
+      <W ID="W933" LEMMA="a" POS="conj">a</W>
+      <W ID="W934" LEMMA="dziewka" POS="subst:sg:nom:f">dziewka</W>
+      <W ID="W935" LEMMA="kuchenny" POS="adj:sg:nom:f:pos">kuchenna</W>
+      <W ID="W936" LEMMA="siedzieć" POS="praet:sg:f:imperf">siedziała</W>
+      <W ID="W937" LEMMA="," POS="interp">,</W>
+      <W ID="W938" LEMMA="trzymać" POS="pcon:imperf">trzymając</W>
+      <W ID="W939" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W940" LEMMA="kolano" POS="subst:pl:loc:n">kolanach</W>
+      <W ID="W941" LEMMA="czarny" POS="adj:sg:acc:f:pos">czarną</W>
+      <W ID="W942" LEMMA="kura" POS="subst:sg:acc:f">kurę</W>
+      <W ID="W943" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE146">
+      <W ID="W944" LEMMA="który" POS="adj:sg:acc:f:pos">którą</W>
+      <W ID="W945" LEMMA="chcieć" POS="praet:sg:f:imperf">chciała</W>
+      <W ID="W946" LEMMA="oskubać" POS="inf:perf">oskubać</W>
+      <W ID="W947" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S36">
+    <CLAUSE ID="CLAUSE147">
+      <W ID="W948" LEMMA="pójść" POS="praet:sg:m1:perf">Poszedł</W>
+      <W ID="W949" LEMMA="daleko" POS="adv:com">dalej</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE148">
+      <W ID="W950" LEMMA="i" POS="conj">i</W>
+      <W ID="W951" LEMMA="zobaczyć" POS="praet:sg:m1:perf">zobaczył</W>
+      <W ID="W952" LEMMA="wszystek" POS="adj:pl:gen:m1:pos">wszystkich</W>
+      <W ID="W953" LEMMA="dworzanin" POS="subst:pl:gen:m1">dworzan</W>
+      <W ID="W954" LEMMA="spać" POS="pact:pl:gen:m1:imperf:aff">śpiących</W>
+      <W ID="W955" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W956" LEMMA="sala" POS="subst:sg:loc:f">sali</W>
+      <W ID="W957" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE149">
+      <W ID="W958" LEMMA="a" POS="conj">a</W>
+      <W ID="W959" LEMMA="obok" POS="prep:gen">obok</W>
+      <W ID="W960" LEMMA="tron" POS="subst:sg:gen:m3">tronu</W>
+      <W ID="W961" LEMMA="leżeć" POS="praet:pl:m1:imperf">leżeli</W>
+      <W ID="W962" LEMMA="uśpić" POS="ppas:pl:nom:m1:perf:aff">uśpieni</W>
+      <W ID="W963" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W964" LEMMA="i" POS="conj">i</W>
+      <W ID="W965" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W966" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S37">
+    <CLAUSE ID="CLAUSE150">
+      <W ID="W967" LEMMA="królewicz" POS="subst:sg:nom:m1">Królewicz</W>
+      <W ID="W968" LEMMA="iść" POS="praet:sg:m1:imperf">szedł</W>
+      <W ID="W969" LEMMA="coraz" POS="adv">coraz</W>
+      <W ID="W970" LEMMA="daleko" POS="adv:com">dalej</W>
+      <W ID="W971" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE151">
+      <W ID="W972" LEMMA="a" POS="conj">a</W>
+      <W ID="W973" LEMMA="cisza" POS="subst:sg:nom:f">cisza</W>
+      <W ID="W974" LEMMA="dokoła" POS="adv">dokoła</W>
+      <W ID="W975" LEMMA="być" POS="praet:sg:f:imperf">była</W>
+      <W ID="W976" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W977" LEMMA="głęboki" POS="adj:sg:nom:f:pos">głęboka</W>
+      <W ID="W978" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE152">
+      <W ID="W979" LEMMA="że" POS="comp">że</W>
+      <W ID="W980" LEMMA="słyszeć" POS="praet:sg:m1:imperf">słyszał</W>
+      <W ID="W981" LEMMA="własny" POS="adj:sg:acc:m3:pos">własny</W>
+      <W ID="W982" LEMMA="oddech" POS="subst:sg:acc:m3">oddech</W>
+      <W ID="W983" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE153" CONTINUE="CLAUSE150">
+      <W ID="W984" LEMMA="i" POS="conj">i</W>
+      <W ID="W985" LEMMA="wreszcie" POS="qub">wreszcie</W>
+      <W ID="W986" LEMMA="dotrzeć" POS="praet:sg:m1:perf">dotarł</W>
+      <W ID="W987" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W988" LEMMA="wieża" POS="subst:sg:gen:f">wieży</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE154">
+      <W ID="W989" LEMMA="i" POS="conj">i</W>
+      <W ID="W990" LEMMA="otworzyć" POS="praet:sg:m1:perf">otworzył</W>
+      <W ID="W991" LEMMA="drzwi" POS="subst:pl:acc:n">drzwi</W>
+      <W ID="W992" LEMMA="izdebka" POS="subst:sg:gen:f">izdebki</W>
+      <W ID="W993" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE155">
+      <W ID="W994" LEMMA="gdzie" POS="adv">gdzie</W>
+      <W ID="W995" LEMMA="spać" POS="praet:sg:f:imperf">spała</W>
+      <W ID="W996" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W997" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S38">
+    <CLAUSE ID="CLAUSE156">
+      <W ID="W998" LEMMA="i" POS="conj">I</W>
+      <W ID="W999" LEMMA="ujrzeć" POS="praet:sg:m1:perf">ujrzał</W>
+      <W ID="W1000" LEMMA="dzieweczka" POS="subst:sg:acc:f">dzieweczkę</W>
+      <W ID="W1001" LEMMA="tak" POS="adv:pos">tak</W>
+      <W ID="W1002" LEMMA="piękny" POS="adj:sg:acc:f:pos">piękną</W>
+      <W ID="W1003" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE157">
+      <W ID="W1004" LEMMA="że" POS="comp">że</W>
+      <W ID="W1005" LEMMA="nie" POS="qub">nie</W>
+      <W ID="W1006" LEMMA="móc" POS="praet:sg:m1:imperf:nagl">mógł</W>
+      <W ID="W1007" LEMMA="oderwać" POS="inf:perf">oderwać</W>
+      <W ID="W1008" LEMMA="od" POS="prep:gen:nwok">od</W>
+      <W ID="W1009" LEMMA="on" POS="ppron3:sg:gen:f:ter:akc:praep">niej</W>
+      <W ID="W1010" LEMMA="oko" POS="subst:pl:gen:n">oczu</W>
+      <W ID="W1011" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE158">
+      <W ID="W1012" LEMMA="pochylić" POS="praet:sg:m1:perf">pochylił</W>
+      <W ID="W1013" LEMMA="się" POS="qub">się</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE159">
+      <W ID="W1014" LEMMA="i" POS="conj">i</W>
+      <W ID="W1015" LEMMA="pocałować" POS="praet:sg:m1:perf">pocałował</W>
+      <W ID="W1016" LEMMA="on" POS="ppron3:sg:acc:f:ter:akc:npraep">ją</W>
+      <W ID="W1017" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S39">
+    <CLAUSE ID="CLAUSE160">
+      <W ID="W1018" LEMMA="po" POS="prep:loc">Po</W>
+      <W ID="W1019" LEMMA="ten" POS="adj:sg:loc:m3:pos">tym</W>
+      <W ID="W1020" LEMMA="pocałunek" POS="subst:sg:loc:m3">pocałunku</W>
+      <W ID="W1021" LEMMA="królewna" POS="subst:sg:nom:f">królewna</W>
+      <W ID="W1022" LEMMA="otworzyć" POS="praet:sg:f:perf">otworzyła</W>
+      <W ID="W1023" LEMMA="oko" POS="subst:pl:acc:n">oczy</W>
+      <W ID="W1024" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE161">
+      <W ID="W1025" LEMMA="zbudzić" POS="praet:sg:f:perf">zbudziła</W>
+      <W ID="W1026" LEMMA="się" POS="qub">się</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE162">
+      <W ID="W1027" LEMMA="i" POS="conj">i</W>
+      <W ID="W1028" LEMMA="spojrzeć" POS="praet:sg:f:perf">spojrzała</W>
+      <W ID="W1029" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W1030" LEMMA="on" POS="ppron3:sg:acc:m1:ter:akc:praep">niego</W>
+      <W ID="W1031" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W1032" LEMMA="uroczy" POS="adj:sg:inst:m3:pos">uroczym</W>
+      <W ID="W1033" LEMMA="uśmiech" POS="subst:sg:inst:m3">uśmiechem</W>
+      <W ID="W1034" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S40">
+    <CLAUSE ID="CLAUSE163">
+      <W ID="W1035" LEMMA="zejść" POS="praet:pl:m1:perf">Zeszli</W>
+      <W ID="W1036" LEMMA="potem" POS="adv">potem</W>
+      <W ID="W1037" LEMMA="razem" POS="adv">razem</W>
+      <W ID="W1038" LEMMA="na" POS="prep:acc">na</W>
+      <W ID="W1039" LEMMA="dół" POS="subst:sg:acc:m3">dół</W>
+      <W ID="W1040" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE164">
+      <W ID="W1041" LEMMA="a" POS="conj">a</W>
+      <W ID="W1042" LEMMA="wtedy" POS="adv">wtedy</W>
+      <W ID="W1043" LEMMA="zbudzić" POS="praet:sg:m1:perf">zbudził</W>
+      <W ID="W1044" LEMMA="się" POS="qub">się</W>
+      <W ID="W1045" LEMMA="król" POS="subst:sg:nom:m1">król</W>
+      <W ID="W1046" LEMMA="," POS="interp">,</W>
+      <W ID="W1047" LEMMA="królowa" POS="subst:sg:nom:f">królowa</W>
+      <W ID="W1048" LEMMA="i" POS="conj">i</W>
+      <W ID="W1049" LEMMA="cały" POS="adj:sg:nom:m3:pos">cały</W>
+      <W ID="W1050" LEMMA="dwór" POS="subst:sg:nom:m3">dwór</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE165">
+      <W ID="W1051" LEMMA="i" POS="conj">i</W>
+      <W ID="W1052" LEMMA="jeden" POS="adj:pl:nom:m1:pos">jedni</W>
+      <W ID="W1053" LEMMA="patrzyć" POS="praet:pl:m1:imperf">patrzyli</W>
+      <W ID="W1054" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W1055" LEMMA="drugi" POS="adj:pl:loc:m3:pos">drugich</W>
+      <W ID="W1056" LEMMA="z" POS="prep:inst:wok">ze</W>
+      <W ID="W1057" LEMMA="zdumienie" POS="subst:sg:inst:n">zdumieniem</W>
+      <W ID="W1058" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S41">
+    <CLAUSE ID="CLAUSE166">
+      <W ID="W1059" LEMMA="koń" POS="subst:pl:nom:m2">Konie</W>
+      <W ID="W1060" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W1061" LEMMA="podwórko" POS="subst:sg:loc:n">podwórku</W>
+      <W ID="W1062" LEMMA="podnieść" POS="praet:pl:m2:perf">podniosły</W>
+      <W ID="W1063" LEMMA="się" POS="qub">się</W>
+      <W ID="W1064" LEMMA="potrząsać" POS="pcon:imperf">potrząsając</W>
+      <W ID="W1065" LEMMA="grzywa" POS="subst:pl:inst:f">grzywami</W>
+      <W ID="W1066" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE167">
+      <W ID="W1067" LEMMA="pies" POS="subst:pl:acc:m2">psy</W>
+      <W ID="W1068" LEMMA="myślwskie" POS="ign">myślwskie</W>
+      <W ID="W1069" LEMMA="jąć" POS="praet:pl:m2:perf">jęły</W>
+      <W ID="W1070" LEMMA="skakać" POS="inf:imperf">skakać</W>
+      <W ID="W1071" LEMMA="i" POS="conj">i</W>
+      <W ID="W1072" LEMMA="machać" POS="inf:imperf">machać</W>
+      <W ID="W1073" LEMMA="ogon" POS="subst:pl:inst:m3">ogonami</W>
+      <W ID="W1074" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE168">
+      <W ID="W1075" LEMMA="gołąb" POS="subst:pl:nom:m2">gołębie</W>
+      <W ID="W1076" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W1077" LEMMA="dach" POS="subst:sg:loc:m3">dachu</W>
+      <W ID="W1078" LEMMA="wyciągnąć" POS="praet:pl:m2:perf">wyciągnęły</W>
+      <W ID="W1079" LEMMA="główka" POS="subst:pl:nom:f">główki</W>
+      <W ID="W1080" LEMMA="spod" POS="prep:gen:nwok">spod</W>
+      <W ID="W1081" LEMMA="skrzydełko" POS="subst:pl:gen:n">skrzydełek</W>
+      <W ID="W1082" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE169">
+      <W ID="W1083" LEMMA="rozejrzeć" POS="praet:pl:f:perf">rozejrzały</W>
+      <W ID="W1084" LEMMA="się" POS="qub">się</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE170">
+      <W ID="W1085" LEMMA="i" POS="conj">i</W>
+      <W ID="W1086" LEMMA="pofrunąć" POS="praet:pl:f:perf">pofrunęły</W>
+      <W ID="W1087" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W1088" LEMMA="pole" POS="subst:sg:acc:n">pole</W>
+      <W ID="W1089" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE171">
+      <W ID="W1090" LEMMA="mucha" POS="subst:pl:nom:f">muchy</W>
+      <W ID="W1091" LEMMA="na" POS="prep:loc">na</W>
+      <W ID="W1092" LEMMA="ściana" POS="subst:pl:loc:f">ścianach</W>
+      <W ID="W1093" LEMMA="poruszyć" POS="praet:pl:f:perf">poruszyły</W>
+      <W ID="W1094" LEMMA="się" POS="qub">się</W>
+      <W ID="W1095" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE172">
+      <W ID="W1096" LEMMA="ogień" POS="subst:sg:nom:m3">ogień</W>
+      <W ID="W1097" LEMMA="pod" POS="prep:inst:nwok">pod</W>
+      <W ID="W1098" LEMMA="kuchnia" POS="subst:sg:inst:f">kuchnią</W>
+      <W ID="W1099" LEMMA="zapłonąć" POS="praet:sg:m3:perf">zapłonął</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE173">
+      <W ID="W1100" LEMMA="i" POS="conj">i</W>
+      <W ID="W1101" LEMMA="zacząć" POS="praet:sg:m1:perf">zaczął</W>
+      <W ID="W1102" LEMMA="gotować" POS="inf:imperf">gotować</W>
+      <W ID="W1103" LEMMA="jedzenie" POS="subst:sg:acc:n">jedzenie</W>
+      <W ID="W1104" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE174">
+      <W ID="W1105" LEMMA="pieczeń" POS="subst:sg:nom:f">pieczeń</W>
+      <W ID="W1106" LEMMA="zaskwierczeć" POS="praet:sg:f:perf">zaskwierczała</W>
+      <W ID="W1107" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE175">
+      <W ID="W1108" LEMMA="kucharz" POS="subst:sg:nom:m1">kucharz</W>
+      <W ID="W1109" LEMMA="trzepnąć" POS="praet:sg:m1:perf">trzepnął</W>
+      <W ID="W1110" LEMMA="kuchcik" POS="subst:sg:acc:m1">kuchcika</W>
+      <W ID="W1111" LEMMA="w" POS="prep:acc:nwok">w</W>
+      <W ID="W1112" LEMMA="ucho" POS="subst:sg:acc:n">ucho</W>
+      <W ID="W1113" LEMMA="," POS="interp">,</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE176">
+      <W ID="W1114" LEMMA="a" POS="conj">a</W>
+      <W ID="W1115" LEMMA="dziewka" POS="subst:sg:nom:f">dziewka</W>
+      <W ID="W1116" LEMMA="kuchenny" POS="adj:sg:nom:f:pos">kuchenna</W>
+      <W ID="W1117" LEMMA="oskubać" POS="praet:sg:f:perf">oskubała</W>
+      <W ID="W1118" LEMMA="do" POS="prep:gen">do</W>
+      <W ID="W1119" LEMMA="koniec" POS="subst:sg:gen:m3">końca</W>
+      <W ID="W1120" LEMMA="kura" POS="subst:sg:acc:f">kurę</W>
+      <W ID="W1121" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+  <S ID="S42">
+    <CLAUSE ID="CLAUSE177">
+      <W ID="W1122" LEMMA="po" POS="prep:loc">Po</W>
+      <W ID="W1123" LEMMA="co" POS="subst:sg:loc:n">czym</W>
+      <W ID="W1124" LEMMA="odbyć" POS="praet:sg:n:perf">odbyło</W>
+      <W ID="W1125" LEMMA="się" POS="qub">się</W>
+      <W ID="W1126" LEMMA="huczny" POS="adj:sg:nom:n:pos">huczne</W>
+      <W ID="W1127" LEMMA="wesele" POS="subst:sg:nom:n">wesele</W>
+      <W ID="W1128" LEMMA="królewicz" POS="subst:sg:gen:m1">królewicza</W>
+      <W ID="W1129" LEMMA="z" POS="prep:inst:nwok">z</W>
+      <W ID="W1130" LEMMA="królewna" POS="subst:sg:inst:f">królewną</W>
+      <W ID="W1131" LEMMA="różyczka" POS="subst:sg:inst:f">Różyczką</W>
+    </CLAUSE>
+    <CLAUSE ID="CLAUSE178">
+      <W ID="W1132" LEMMA="i" POS="conj">i</W>
+      <W ID="W1133" LEMMA="oba" POS="numcol:pl:nom:m1:rec">oboje</W>
+      <W ID="W1134" LEMMA="żyć" POS="praet:pl:m1:imperf">żyli</W>
+      <W ID="W1135" LEMMA="długo" POS="adv:pos">długo</W>
+      <W ID="W1136" LEMMA="i" POS="conj">i</W>
+      <W ID="W1137" LEMMA="szczęśliwie" POS="adv:pos">szczęśliwie</W>
+      <W ID="W1138" LEMMA="." POS="interp">.</W>
+    </CLAUSE>
+  </S>
+</DOCUMENT>
