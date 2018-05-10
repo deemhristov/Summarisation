@@ -1,0 +1,1280 @@
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-1 Average_R: 0.61561 (95%-conf.int. 0.60258 - 0.62796)
+COSINE-LEMMA-ALL-NONE ROUGE-1 Average_P: 0.68045 (95%-conf.int. 0.66260 - 0.69853)
+COSINE-LEMMA-ALL-NONE ROUGE-1 Average_F: 0.64542 (95%-conf.int. 0.63228 - 0.65953)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-2 Average_R: 0.45541 (95%-conf.int. 0.43824 - 0.47448)
+COSINE-LEMMA-ALL-NONE ROUGE-2 Average_P: 0.50448 (95%-conf.int. 0.48208 - 0.52861)
+COSINE-LEMMA-ALL-NONE ROUGE-2 Average_F: 0.47796 (95%-conf.int. 0.45880 - 0.50027)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-3 Average_R: 0.42405 (95%-conf.int. 0.40578 - 0.44401)
+COSINE-LEMMA-ALL-NONE ROUGE-3 Average_P: 0.47002 (95%-conf.int. 0.44666 - 0.49439)
+COSINE-LEMMA-ALL-NONE ROUGE-3 Average_F: 0.44517 (95%-conf.int. 0.42498 - 0.46764)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-4 Average_R: 0.40782 (95%-conf.int. 0.38890 - 0.42834)
+COSINE-LEMMA-ALL-NONE ROUGE-4 Average_P: 0.45218 (95%-conf.int. 0.42843 - 0.47699)
+COSINE-LEMMA-ALL-NONE ROUGE-4 Average_F: 0.42820 (95%-conf.int. 0.40797 - 0.45113)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-L Average_R: 0.60743 (95%-conf.int. 0.59414 - 0.62036)
+COSINE-LEMMA-ALL-NONE ROUGE-L Average_P: 0.67159 (95%-conf.int. 0.65321 - 0.68987)
+COSINE-LEMMA-ALL-NONE ROUGE-L Average_F: 0.63693 (95%-conf.int. 0.62330 - 0.65122)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-W-1.2 Average_R: 0.17957 (95%-conf.int. 0.17504 - 0.18396)
+COSINE-LEMMA-ALL-NONE ROUGE-W-1.2 Average_P: 0.36978 (95%-conf.int. 0.35859 - 0.38235)
+COSINE-LEMMA-ALL-NONE ROUGE-W-1.2 Average_F: 0.24129 (95%-conf.int. 0.23563 - 0.24714)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-S* Average_R: 0.37407 (95%-conf.int. 0.35789 - 0.38986)
+COSINE-LEMMA-ALL-NONE ROUGE-S* Average_P: 0.45906 (95%-conf.int. 0.43508 - 0.48438)
+COSINE-LEMMA-ALL-NONE ROUGE-S* Average_F: 0.40976 (95%-conf.int. 0.39246 - 0.42862)
+---------------------------------------------
+COSINE-LEMMA-ALL-NONE ROUGE-SU* Average_R: 0.37492 (95%-conf.int. 0.35873 - 0.39068)
+COSINE-LEMMA-ALL-NONE ROUGE-SU* Average_P: 0.45991 (95%-conf.int. 0.43597 - 0.48520)
+COSINE-LEMMA-ALL-NONE ROUGE-SU* Average_F: 0.41061 (95%-conf.int. 0.39335 - 0.42945)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-1 Average_R: 0.60584 (95%-conf.int. 0.59122 - 0.62107)
+COSINE-LEMMA-ALL-STOP ROUGE-1 Average_P: 0.67293 (95%-conf.int. 0.65427 - 0.69207)
+COSINE-LEMMA-ALL-STOP ROUGE-1 Average_F: 0.63651 (95%-conf.int. 0.62187 - 0.65223)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-2 Average_R: 0.44523 (95%-conf.int. 0.42517 - 0.46674)
+COSINE-LEMMA-ALL-STOP ROUGE-2 Average_P: 0.49533 (95%-conf.int. 0.47111 - 0.52193)
+COSINE-LEMMA-ALL-STOP ROUGE-2 Average_F: 0.46811 (95%-conf.int. 0.44701 - 0.49113)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-3 Average_R: 0.41424 (95%-conf.int. 0.39379 - 0.43710)
+COSINE-LEMMA-ALL-STOP ROUGE-3 Average_P: 0.46109 (95%-conf.int. 0.43633 - 0.48739)
+COSINE-LEMMA-ALL-STOP ROUGE-3 Average_F: 0.43564 (95%-conf.int. 0.41327 - 0.45962)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-4 Average_R: 0.39773 (95%-conf.int. 0.37719 - 0.42048)
+COSINE-LEMMA-ALL-STOP ROUGE-4 Average_P: 0.44281 (95%-conf.int. 0.41857 - 0.46916)
+COSINE-LEMMA-ALL-STOP ROUGE-4 Average_F: 0.41832 (95%-conf.int. 0.39672 - 0.44181)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-L Average_R: 0.59774 (95%-conf.int. 0.58296 - 0.61314)
+COSINE-LEMMA-ALL-STOP ROUGE-L Average_P: 0.66403 (95%-conf.int. 0.64509 - 0.68384)
+COSINE-LEMMA-ALL-STOP ROUGE-L Average_F: 0.62804 (95%-conf.int. 0.61311 - 0.64417)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-W-1.2 Average_R: 0.17382 (95%-conf.int. 0.16771 - 0.18000)
+COSINE-LEMMA-ALL-STOP ROUGE-W-1.2 Average_P: 0.35925 (95%-conf.int. 0.34574 - 0.37330)
+COSINE-LEMMA-ALL-STOP ROUGE-W-1.2 Average_F: 0.23379 (95%-conf.int. 0.22602 - 0.24201)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-S* Average_R: 0.35982 (95%-conf.int. 0.34103 - 0.37968)
+COSINE-LEMMA-ALL-STOP ROUGE-S* Average_P: 0.44513 (95%-conf.int. 0.41843 - 0.47314)
+COSINE-LEMMA-ALL-STOP ROUGE-S* Average_F: 0.39516 (95%-conf.int. 0.37582 - 0.41675)
+---------------------------------------------
+COSINE-LEMMA-ALL-STOP ROUGE-SU* Average_R: 0.36067 (95%-conf.int. 0.34193 - 0.38053)
+COSINE-LEMMA-ALL-STOP ROUGE-SU* Average_P: 0.44601 (95%-conf.int. 0.41936 - 0.47398)
+COSINE-LEMMA-ALL-STOP ROUGE-SU* Average_F: 0.39604 (95%-conf.int. 0.37670 - 0.41760)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-1 Average_R: 0.59280 (95%-conf.int. 0.57731 - 0.60765)
+COSINE-LEMMA-VN-NONE ROUGE-1 Average_P: 0.66073 (95%-conf.int. 0.64298 - 0.67955)
+COSINE-LEMMA-VN-NONE ROUGE-1 Average_F: 0.62395 (95%-conf.int. 0.60805 - 0.63933)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-2 Average_R: 0.42873 (95%-conf.int. 0.40921 - 0.44827)
+COSINE-LEMMA-VN-NONE ROUGE-2 Average_P: 0.47797 (95%-conf.int. 0.45636 - 0.50021)
+COSINE-LEMMA-VN-NONE ROUGE-2 Average_F: 0.45132 (95%-conf.int. 0.43178 - 0.47247)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-3 Average_R: 0.39874 (95%-conf.int. 0.38003 - 0.41953)
+COSINE-LEMMA-VN-NONE ROUGE-3 Average_P: 0.44461 (95%-conf.int. 0.42296 - 0.46745)
+COSINE-LEMMA-VN-NONE ROUGE-3 Average_F: 0.41978 (95%-conf.int. 0.40069 - 0.44125)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-4 Average_R: 0.38359 (95%-conf.int. 0.36473 - 0.40421)
+COSINE-LEMMA-VN-NONE ROUGE-4 Average_P: 0.42777 (95%-conf.int. 0.40701 - 0.44997)
+COSINE-LEMMA-VN-NONE ROUGE-4 Average_F: 0.40385 (95%-conf.int. 0.38491 - 0.42536)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-L Average_R: 0.58418 (95%-conf.int. 0.56831 - 0.59959)
+COSINE-LEMMA-VN-NONE ROUGE-L Average_P: 0.65118 (95%-conf.int. 0.63272 - 0.66987)
+COSINE-LEMMA-VN-NONE ROUGE-L Average_F: 0.61491 (95%-conf.int. 0.59905 - 0.63080)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-W-1.2 Average_R: 0.16614 (95%-conf.int. 0.15970 - 0.17298)
+COSINE-LEMMA-VN-NONE ROUGE-W-1.2 Average_P: 0.34407 (95%-conf.int. 0.33069 - 0.35820)
+COSINE-LEMMA-VN-NONE ROUGE-W-1.2 Average_F: 0.22369 (95%-conf.int. 0.21531 - 0.23225)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-S* Average_R: 0.33682 (95%-conf.int. 0.31718 - 0.35673)
+COSINE-LEMMA-VN-NONE ROUGE-S* Average_P: 0.41877 (95%-conf.int. 0.39423 - 0.44429)
+COSINE-LEMMA-VN-NONE ROUGE-S* Average_F: 0.37115 (95%-conf.int. 0.35000 - 0.39338)
+---------------------------------------------
+COSINE-LEMMA-VN-NONE ROUGE-SU* Average_R: 0.33771 (95%-conf.int. 0.31813 - 0.35758)
+COSINE-LEMMA-VN-NONE ROUGE-SU* Average_P: 0.41970 (95%-conf.int. 0.39522 - 0.44518)
+COSINE-LEMMA-VN-NONE ROUGE-SU* Average_F: 0.37207 (95%-conf.int. 0.35092 - 0.39426)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-1 Average_R: 0.59064 (95%-conf.int. 0.57509 - 0.60650)
+COSINE-LEMMA-VN-STOP ROUGE-1 Average_P: 0.65957 (95%-conf.int. 0.64142 - 0.67840)
+COSINE-LEMMA-VN-STOP ROUGE-1 Average_F: 0.62220 (95%-conf.int. 0.60647 - 0.63878)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-2 Average_R: 0.42884 (95%-conf.int. 0.40876 - 0.45089)
+COSINE-LEMMA-VN-STOP ROUGE-2 Average_P: 0.47879 (95%-conf.int. 0.45598 - 0.50330)
+COSINE-LEMMA-VN-STOP ROUGE-2 Average_F: 0.45171 (95%-conf.int. 0.43084 - 0.47547)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-3 Average_R: 0.39990 (95%-conf.int. 0.38017 - 0.42209)
+COSINE-LEMMA-VN-STOP ROUGE-3 Average_P: 0.44651 (95%-conf.int. 0.42327 - 0.47173)
+COSINE-LEMMA-VN-STOP ROUGE-3 Average_F: 0.42124 (95%-conf.int. 0.40013 - 0.44528)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-4 Average_R: 0.38516 (95%-conf.int. 0.36557 - 0.40732)
+COSINE-LEMMA-VN-STOP ROUGE-4 Average_P: 0.43009 (95%-conf.int. 0.40743 - 0.45521)
+COSINE-LEMMA-VN-STOP ROUGE-4 Average_F: 0.40573 (95%-conf.int. 0.38491 - 0.42943)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-L Average_R: 0.58239 (95%-conf.int. 0.56639 - 0.59863)
+COSINE-LEMMA-VN-STOP ROUGE-L Average_P: 0.65038 (95%-conf.int. 0.63119 - 0.66976)
+COSINE-LEMMA-VN-STOP ROUGE-L Average_F: 0.61353 (95%-conf.int. 0.59704 - 0.63068)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-W-1.2 Average_R: 0.16485 (95%-conf.int. 0.15825 - 0.17123)
+COSINE-LEMMA-VN-STOP ROUGE-W-1.2 Average_P: 0.34186 (95%-conf.int. 0.32921 - 0.35541)
+COSINE-LEMMA-VN-STOP ROUGE-W-1.2 Average_F: 0.22205 (95%-conf.int. 0.21394 - 0.23014)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-S* Average_R: 0.33513 (95%-conf.int. 0.31499 - 0.35646)
+COSINE-LEMMA-VN-STOP ROUGE-S* Average_P: 0.41809 (95%-conf.int. 0.39218 - 0.44656)
+COSINE-LEMMA-VN-STOP ROUGE-S* Average_F: 0.36974 (95%-conf.int. 0.34863 - 0.39273)
+---------------------------------------------
+COSINE-LEMMA-VN-STOP ROUGE-SU* Average_R: 0.33602 (95%-conf.int. 0.31589 - 0.35729)
+COSINE-LEMMA-VN-STOP ROUGE-SU* Average_P: 0.41902 (95%-conf.int. 0.39310 - 0.44741)
+COSINE-LEMMA-VN-STOP ROUGE-SU* Average_F: 0.37066 (95%-conf.int. 0.34957 - 0.39359)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-1 Average_R: 0.60856 (95%-conf.int. 0.59503 - 0.62204)
+COSINE-WORD-ALL-NONE ROUGE-1 Average_P: 0.67307 (95%-conf.int. 0.65536 - 0.69145)
+COSINE-WORD-ALL-NONE ROUGE-1 Average_F: 0.63824 (95%-conf.int. 0.62457 - 0.65359)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-2 Average_R: 0.44458 (95%-conf.int. 0.42730 - 0.46355)
+COSINE-WORD-ALL-NONE ROUGE-2 Average_P: 0.49287 (95%-conf.int. 0.47066 - 0.51738)
+COSINE-WORD-ALL-NONE ROUGE-2 Average_F: 0.46679 (95%-conf.int. 0.44862 - 0.48714)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-3 Average_R: 0.41228 (95%-conf.int. 0.39389 - 0.43213)
+COSINE-WORD-ALL-NONE ROUGE-3 Average_P: 0.45742 (95%-conf.int. 0.43450 - 0.48164)
+COSINE-WORD-ALL-NONE ROUGE-3 Average_F: 0.43304 (95%-conf.int. 0.41318 - 0.45461)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-4 Average_R: 0.39597 (95%-conf.int. 0.37752 - 0.41586)
+COSINE-WORD-ALL-NONE ROUGE-4 Average_P: 0.43952 (95%-conf.int. 0.41618 - 0.46428)
+COSINE-WORD-ALL-NONE ROUGE-4 Average_F: 0.41599 (95%-conf.int. 0.39619 - 0.43712)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-L Average_R: 0.59982 (95%-conf.int. 0.58594 - 0.61383)
+COSINE-WORD-ALL-NONE ROUGE-L Average_P: 0.66362 (95%-conf.int. 0.64506 - 0.68273)
+COSINE-WORD-ALL-NONE ROUGE-L Average_F: 0.62917 (95%-conf.int. 0.61482 - 0.64497)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-W-1.2 Average_R: 0.17882 (95%-conf.int. 0.17355 - 0.18417)
+COSINE-WORD-ALL-NONE ROUGE-W-1.2 Average_P: 0.36831 (95%-conf.int. 0.35561 - 0.38144)
+COSINE-WORD-ALL-NONE ROUGE-W-1.2 Average_F: 0.24030 (95%-conf.int. 0.23322 - 0.24739)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-S* Average_R: 0.36471 (95%-conf.int. 0.34823 - 0.38135)
+COSINE-WORD-ALL-NONE ROUGE-S* Average_P: 0.44828 (95%-conf.int. 0.42378 - 0.47411)
+COSINE-WORD-ALL-NONE ROUGE-S* Average_F: 0.39985 (95%-conf.int. 0.38233 - 0.41991)
+---------------------------------------------
+COSINE-WORD-ALL-NONE ROUGE-SU* Average_R: 0.36556 (95%-conf.int. 0.34912 - 0.38215)
+COSINE-WORD-ALL-NONE ROUGE-SU* Average_P: 0.44914 (95%-conf.int. 0.42468 - 0.47493)
+COSINE-WORD-ALL-NONE ROUGE-SU* Average_F: 0.40072 (95%-conf.int. 0.38322 - 0.42072)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-1 Average_R: 0.61750 (95%-conf.int. 0.60292 - 0.63368)
+COSINE-WORD-ALL-STOP ROUGE-1 Average_P: 0.68496 (95%-conf.int. 0.66621 - 0.70341)
+COSINE-WORD-ALL-STOP ROUGE-1 Average_F: 0.64854 (95%-conf.int. 0.63268 - 0.66485)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-2 Average_R: 0.46041 (95%-conf.int. 0.43979 - 0.48220)
+COSINE-WORD-ALL-STOP ROUGE-2 Average_P: 0.51164 (95%-conf.int. 0.48645 - 0.53758)
+COSINE-WORD-ALL-STOP ROUGE-2 Average_F: 0.48397 (95%-conf.int. 0.46190 - 0.50644)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-3 Average_R: 0.42801 (95%-conf.int. 0.40687 - 0.45064)
+COSINE-WORD-ALL-STOP ROUGE-3 Average_P: 0.47591 (95%-conf.int. 0.45081 - 0.50209)
+COSINE-WORD-ALL-STOP ROUGE-3 Average_F: 0.45004 (95%-conf.int. 0.42794 - 0.47384)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-4 Average_R: 0.40989 (95%-conf.int. 0.38953 - 0.43246)
+COSINE-WORD-ALL-STOP ROUGE-4 Average_P: 0.45588 (95%-conf.int. 0.43093 - 0.48198)
+COSINE-WORD-ALL-STOP ROUGE-4 Average_F: 0.43105 (95%-conf.int. 0.40879 - 0.45464)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-L Average_R: 0.60977 (95%-conf.int. 0.59436 - 0.62648)
+COSINE-WORD-ALL-STOP ROUGE-L Average_P: 0.67646 (95%-conf.int. 0.65700 - 0.69655)
+COSINE-WORD-ALL-STOP ROUGE-L Average_F: 0.64045 (95%-conf.int. 0.62419 - 0.65725)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-W-1.2 Average_R: 0.18014 (95%-conf.int. 0.17453 - 0.18564)
+COSINE-WORD-ALL-STOP ROUGE-W-1.2 Average_P: 0.37144 (95%-conf.int. 0.35843 - 0.38421)
+COSINE-WORD-ALL-STOP ROUGE-W-1.2 Average_F: 0.24219 (95%-conf.int. 0.23467 - 0.24921)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-S* Average_R: 0.37769 (95%-conf.int. 0.35957 - 0.39803)
+COSINE-WORD-ALL-STOP ROUGE-S* Average_P: 0.46606 (95%-conf.int. 0.44084 - 0.49223)
+COSINE-WORD-ALL-STOP ROUGE-S* Average_F: 0.41489 (95%-conf.int. 0.39490 - 0.43629)
+---------------------------------------------
+COSINE-WORD-ALL-STOP ROUGE-SU* Average_R: 0.37853 (95%-conf.int. 0.36045 - 0.39885)
+COSINE-WORD-ALL-STOP ROUGE-SU* Average_P: 0.46691 (95%-conf.int. 0.44172 - 0.49300)
+COSINE-WORD-ALL-STOP ROUGE-SU* Average_F: 0.41574 (95%-conf.int. 0.39575 - 0.43712)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-1 Average_R: 0.59118 (95%-conf.int. 0.57535 - 0.60666)
+COSINE-WORD-VN-NONE ROUGE-1 Average_P: 0.65965 (95%-conf.int. 0.64096 - 0.67816)
+COSINE-WORD-VN-NONE ROUGE-1 Average_F: 0.62251 (95%-conf.int. 0.60660 - 0.63799)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-2 Average_R: 0.42946 (95%-conf.int. 0.40882 - 0.45111)
+COSINE-WORD-VN-NONE ROUGE-2 Average_P: 0.47950 (95%-conf.int. 0.45505 - 0.50367)
+COSINE-WORD-VN-NONE ROUGE-2 Average_F: 0.45236 (95%-conf.int. 0.43021 - 0.47513)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-3 Average_R: 0.39982 (95%-conf.int. 0.37931 - 0.42154)
+COSINE-WORD-VN-NONE ROUGE-3 Average_P: 0.44656 (95%-conf.int. 0.42211 - 0.47121)
+COSINE-WORD-VN-NONE ROUGE-3 Average_F: 0.42121 (95%-conf.int. 0.39952 - 0.44442)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-4 Average_R: 0.38522 (95%-conf.int. 0.36450 - 0.40680)
+COSINE-WORD-VN-NONE ROUGE-4 Average_P: 0.43034 (95%-conf.int. 0.40641 - 0.45501)
+COSINE-WORD-VN-NONE ROUGE-4 Average_F: 0.40586 (95%-conf.int. 0.38429 - 0.42880)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-L Average_R: 0.58288 (95%-conf.int. 0.56687 - 0.59882)
+COSINE-WORD-VN-NONE ROUGE-L Average_P: 0.65044 (95%-conf.int. 0.63124 - 0.66934)
+COSINE-WORD-VN-NONE ROUGE-L Average_F: 0.61380 (95%-conf.int. 0.59735 - 0.62975)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-W-1.2 Average_R: 0.16360 (95%-conf.int. 0.15712 - 0.16989)
+COSINE-WORD-VN-NONE ROUGE-W-1.2 Average_P: 0.33897 (95%-conf.int. 0.32585 - 0.35238)
+COSINE-WORD-VN-NONE ROUGE-W-1.2 Average_F: 0.22029 (95%-conf.int. 0.21189 - 0.22841)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-S* Average_R: 0.33622 (95%-conf.int. 0.31594 - 0.35686)
+COSINE-WORD-VN-NONE ROUGE-S* Average_P: 0.41913 (95%-conf.int. 0.39217 - 0.44584)
+COSINE-WORD-VN-NONE ROUGE-S* Average_F: 0.37075 (95%-conf.int. 0.34937 - 0.39304)
+---------------------------------------------
+COSINE-WORD-VN-NONE ROUGE-SU* Average_R: 0.33711 (95%-conf.int. 0.31681 - 0.35772)
+COSINE-WORD-VN-NONE ROUGE-SU* Average_P: 0.42006 (95%-conf.int. 0.39317 - 0.44669)
+COSINE-WORD-VN-NONE ROUGE-SU* Average_F: 0.37167 (95%-conf.int. 0.35032 - 0.39396)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-1 Average_R: 0.58956 (95%-conf.int. 0.57472 - 0.60478)
+COSINE-WORD-VN-STOP ROUGE-1 Average_P: 0.65627 (95%-conf.int. 0.63744 - 0.67529)
+COSINE-WORD-VN-STOP ROUGE-1 Average_F: 0.62008 (95%-conf.int. 0.60438 - 0.63635)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-2 Average_R: 0.42618 (95%-conf.int. 0.40713 - 0.44758)
+COSINE-WORD-VN-STOP ROUGE-2 Average_P: 0.47503 (95%-conf.int. 0.45217 - 0.50069)
+COSINE-WORD-VN-STOP ROUGE-2 Average_F: 0.44853 (95%-conf.int. 0.42725 - 0.47246)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-3 Average_R: 0.39668 (95%-conf.int. 0.37706 - 0.41874)
+COSINE-WORD-VN-STOP ROUGE-3 Average_P: 0.44238 (95%-conf.int. 0.41928 - 0.46877)
+COSINE-WORD-VN-STOP ROUGE-3 Average_F: 0.41759 (95%-conf.int. 0.39665 - 0.44201)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-4 Average_R: 0.38199 (95%-conf.int. 0.36235 - 0.40364)
+COSINE-WORD-VN-STOP ROUGE-4 Average_P: 0.42610 (95%-conf.int. 0.40322 - 0.45173)
+COSINE-WORD-VN-STOP ROUGE-4 Average_F: 0.40217 (95%-conf.int. 0.38117 - 0.42581)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-L Average_R: 0.58066 (95%-conf.int. 0.56539 - 0.59616)
+COSINE-WORD-VN-STOP ROUGE-L Average_P: 0.64648 (95%-conf.int. 0.62677 - 0.66594)
+COSINE-WORD-VN-STOP ROUGE-L Average_F: 0.61078 (95%-conf.int. 0.59476 - 0.62718)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-W-1.2 Average_R: 0.16358 (95%-conf.int. 0.15707 - 0.16981)
+COSINE-WORD-VN-STOP ROUGE-W-1.2 Average_P: 0.33830 (95%-conf.int. 0.32456 - 0.35074)
+COSINE-WORD-VN-STOP ROUGE-W-1.2 Average_F: 0.22014 (95%-conf.int. 0.21166 - 0.22796)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-S* Average_R: 0.33356 (95%-conf.int. 0.31417 - 0.35414)
+COSINE-WORD-VN-STOP ROUGE-S* Average_P: 0.41430 (95%-conf.int. 0.38793 - 0.44267)
+COSINE-WORD-VN-STOP ROUGE-S* Average_F: 0.36720 (95%-conf.int. 0.34561 - 0.39034)
+---------------------------------------------
+COSINE-WORD-VN-STOP ROUGE-SU* Average_R: 0.33445 (95%-conf.int. 0.31511 - 0.35501)
+COSINE-WORD-VN-STOP ROUGE-SU* Average_P: 0.41524 (95%-conf.int. 0.38893 - 0.44354)
+COSINE-WORD-VN-STOP ROUGE-SU* Average_F: 0.36812 (95%-conf.int. 0.34657 - 0.39118)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-LEMMA-ALL-NONE ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-LEMMA-ALL-NONE ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-LEMMA-ALL-NONE ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-LEMMA-ALL-NONE ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-LEMMA-ALL-NONE ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-LEMMA-ALL-NONE ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-LEMMA-ALL-NONE ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-LEMMA-ALL-NONE ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-LEMMA-ALL-NONE ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-LEMMA-ALL-NONE ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-LEMMA-ALL-NONE ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-LEMMA-ALL-NONE ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-LEMMA-ALL-NONE ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-LEMMA-ALL-NONE ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-LEMMA-ALL-NONE ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-LEMMA-ALL-NONE ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-LEMMA-ALL-NONE ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-LEMMA-ALL-STOP ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-LEMMA-ALL-STOP ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-LEMMA-ALL-STOP ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-LEMMA-ALL-STOP ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-LEMMA-ALL-STOP ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-LEMMA-ALL-STOP ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-LEMMA-ALL-STOP ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-LEMMA-ALL-STOP ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-LEMMA-ALL-STOP ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-LEMMA-ALL-STOP ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-LEMMA-ALL-STOP ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-LEMMA-ALL-STOP ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-LEMMA-ALL-STOP ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-LEMMA-ALL-STOP ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-LEMMA-ALL-STOP ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-LEMMA-ALL-STOP ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-LEMMA-ALL-STOP ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-LEMMA-VN-NONE ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-LEMMA-VN-NONE ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-LEMMA-VN-NONE ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-LEMMA-VN-NONE ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-LEMMA-VN-NONE ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-LEMMA-VN-NONE ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-LEMMA-VN-NONE ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-LEMMA-VN-NONE ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-LEMMA-VN-NONE ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-LEMMA-VN-NONE ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-LEMMA-VN-NONE ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-LEMMA-VN-NONE ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-LEMMA-VN-NONE ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-LEMMA-VN-NONE ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-LEMMA-VN-NONE ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-LEMMA-VN-NONE ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-LEMMA-VN-NONE ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-LEMMA-VN-STOP ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-LEMMA-VN-STOP ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-LEMMA-VN-STOP ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-LEMMA-VN-STOP ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-LEMMA-VN-STOP ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-LEMMA-VN-STOP ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-LEMMA-VN-STOP ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-LEMMA-VN-STOP ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-LEMMA-VN-STOP ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-LEMMA-VN-STOP ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-LEMMA-VN-STOP ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-LEMMA-VN-STOP ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-LEMMA-VN-STOP ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-LEMMA-VN-STOP ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-LEMMA-VN-STOP ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-LEMMA-VN-STOP ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-LEMMA-VN-STOP ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-WORD-ALL-NONE ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-WORD-ALL-NONE ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-WORD-ALL-NONE ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-WORD-ALL-NONE ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-WORD-ALL-NONE ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-WORD-ALL-NONE ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-WORD-ALL-NONE ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-WORD-ALL-NONE ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-WORD-ALL-NONE ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-WORD-ALL-NONE ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-WORD-ALL-NONE ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-WORD-ALL-NONE ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-WORD-ALL-NONE ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-WORD-ALL-NONE ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-WORD-ALL-NONE ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-WORD-ALL-NONE ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-WORD-ALL-NONE ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-WORD-ALL-STOP ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-WORD-ALL-STOP ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-WORD-ALL-STOP ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-WORD-ALL-STOP ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-WORD-ALL-STOP ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-WORD-ALL-STOP ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-WORD-ALL-STOP ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-WORD-ALL-STOP ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-WORD-ALL-STOP ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-WORD-ALL-STOP ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-WORD-ALL-STOP ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-WORD-ALL-STOP ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-WORD-ALL-STOP ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-WORD-ALL-STOP ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-WORD-ALL-STOP ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-WORD-ALL-STOP ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-WORD-ALL-STOP ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-WORD-VN-NONE ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-WORD-VN-NONE ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-WORD-VN-NONE ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-WORD-VN-NONE ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-WORD-VN-NONE ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-WORD-VN-NONE ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-WORD-VN-NONE ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-WORD-VN-NONE ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-WORD-VN-NONE ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-WORD-VN-NONE ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-WORD-VN-NONE ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-WORD-VN-NONE ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-WORD-VN-NONE ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-WORD-VN-NONE ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-WORD-VN-NONE ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-WORD-VN-NONE ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-WORD-VN-NONE ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-1 Average_R: 0.59764 (95%-conf.int. 0.58363 - 0.61069)
+FIRST-WORD-VN-STOP ROUGE-1 Average_P: 0.66630 (95%-conf.int. 0.64862 - 0.68354)
+FIRST-WORD-VN-STOP ROUGE-1 Average_F: 0.62905 (95%-conf.int. 0.61504 - 0.64309)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-2 Average_R: 0.44556 (95%-conf.int. 0.42663 - 0.46442)
+FIRST-WORD-VN-STOP ROUGE-2 Average_P: 0.49792 (95%-conf.int. 0.47495 - 0.52186)
+FIRST-WORD-VN-STOP ROUGE-2 Average_F: 0.46948 (95%-conf.int. 0.44976 - 0.48988)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-3 Average_R: 0.41810 (95%-conf.int. 0.39889 - 0.43776)
+FIRST-WORD-VN-STOP ROUGE-3 Average_P: 0.46761 (95%-conf.int. 0.44337 - 0.49273)
+FIRST-WORD-VN-STOP ROUGE-3 Average_F: 0.44071 (95%-conf.int. 0.41928 - 0.46195)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-4 Average_R: 0.40450 (95%-conf.int. 0.38510 - 0.42456)
+FIRST-WORD-VN-STOP ROUGE-4 Average_P: 0.45267 (95%-conf.int. 0.42850 - 0.47808)
+FIRST-WORD-VN-STOP ROUGE-4 Average_F: 0.42650 (95%-conf.int. 0.40486 - 0.44822)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-L Average_R: 0.59106 (95%-conf.int. 0.57723 - 0.60465)
+FIRST-WORD-VN-STOP ROUGE-L Average_P: 0.65906 (95%-conf.int. 0.64098 - 0.67671)
+FIRST-WORD-VN-STOP ROUGE-L Average_F: 0.62217 (95%-conf.int. 0.60779 - 0.63701)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-W-1.2 Average_R: 0.18222 (95%-conf.int. 0.17717 - 0.18731)
+FIRST-WORD-VN-STOP ROUGE-W-1.2 Average_P: 0.37817 (95%-conf.int. 0.36640 - 0.39094)
+FIRST-WORD-VN-STOP ROUGE-W-1.2 Average_F: 0.24544 (95%-conf.int. 0.23934 - 0.25214)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-S* Average_R: 0.33091 (95%-conf.int. 0.31518 - 0.34699)
+FIRST-WORD-VN-STOP ROUGE-S* Average_P: 0.41369 (95%-conf.int. 0.39045 - 0.43737)
+FIRST-WORD-VN-STOP ROUGE-S* Average_F: 0.36534 (95%-conf.int. 0.34814 - 0.38295)
+---------------------------------------------
+FIRST-WORD-VN-STOP ROUGE-SU* Average_R: 0.33184 (95%-conf.int. 0.31613 - 0.34791)
+FIRST-WORD-VN-STOP ROUGE-SU* Average_P: 0.41467 (95%-conf.int. 0.39146 - 0.43831)
+FIRST-WORD-VN-STOP ROUGE-SU* Average_F: 0.36630 (95%-conf.int. 0.34912 - 0.38387)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-LEMMA-ALL-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-LEMMA-ALL-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-LEMMA-ALL-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-LEMMA-VN-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-LEMMA-VN-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-LEMMA-VN-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-LEMMA-VN-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-LEMMA-VN-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-LEMMA-VN-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-LEMMA-VN-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-LEMMA-VN-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-LEMMA-VN-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-LEMMA-VN-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-LEMMA-VN-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-LEMMA-VN-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-LEMMA-VN-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-LEMMA-VN-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-LEMMA-VN-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-LEMMA-VN-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-LEMMA-VN-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-LEMMA-VN-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-LEMMA-VN-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-LEMMA-VN-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-LEMMA-VN-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-LEMMA-VN-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-LEMMA-VN-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-LEMMA-VN-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-LEMMA-VN-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-LEMMA-VN-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-LEMMA-VN-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-LEMMA-VN-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-LEMMA-VN-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-WORD-ALL-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-WORD-ALL-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-WORD-ALL-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-WORD-ALL-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-WORD-ALL-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-WORD-ALL-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-WORD-ALL-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-WORD-ALL-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-WORD-ALL-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-WORD-ALL-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-WORD-ALL-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-WORD-ALL-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-WORD-ALL-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-WORD-ALL-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-WORD-ALL-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-WORD-ALL-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-WORD-ALL-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-WORD-ALL-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-WORD-ALL-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-WORD-ALL-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-WORD-ALL-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-WORD-ALL-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-WORD-ALL-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-WORD-ALL-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-WORD-ALL-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-WORD-ALL-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-WORD-ALL-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-WORD-ALL-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-WORD-ALL-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-WORD-ALL-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-WORD-VN-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-WORD-VN-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-WORD-VN-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-WORD-VN-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-WORD-VN-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-WORD-VN-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-WORD-VN-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-WORD-VN-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-WORD-VN-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-WORD-VN-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-WORD-VN-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-WORD-VN-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-WORD-VN-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-WORD-VN-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-WORD-VN-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-WORD-VN-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-WORD-VN-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+ISF-LCS-WORD-VN-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+ISF-LCS-WORD-VN-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+ISF-LCS-WORD-VN-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+ISF-LCS-WORD-VN-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+ISF-LCS-WORD-VN-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+ISF-LCS-WORD-VN-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+ISF-LCS-WORD-VN-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+ISF-LCS-WORD-VN-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+ISF-LCS-WORD-VN-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+ISF-LCS-WORD-VN-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+ISF-LCS-WORD-VN-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+ISF-LCS-WORD-VN-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+ISF-LCS-WORD-VN-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+ISF-LCS-WORD-VN-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+ISF-LCS-WORD-VN-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+ISF-LCS-WORD-VN-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+ISF-LCS-WORD-VN-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-LEMMA-ALL-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-LEMMA-ALL-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-LEMMA-ALL-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-LEMMA-ALL-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-LEMMA-ALL-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-LEMMA-ALL-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-LEMMA-ALL-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-LEMMA-ALL-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-LEMMA-ALL-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-LEMMA-ALL-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-LEMMA-ALL-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-LEMMA-ALL-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-LEMMA-ALL-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-LEMMA-ALL-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-LEMMA-ALL-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-LEMMA-ALL-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-LEMMA-ALL-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-LEMMA-ALL-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-LEMMA-ALL-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-LEMMA-ALL-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-LEMMA-ALL-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-LEMMA-ALL-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-LEMMA-ALL-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-LEMMA-ALL-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-LEMMA-ALL-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-LEMMA-ALL-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-LEMMA-ALL-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-LEMMA-ALL-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-LEMMA-ALL-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-LEMMA-ALL-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-LEMMA-ALL-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-LEMMA-ALL-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-LEMMA-VN-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-LEMMA-VN-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-LEMMA-VN-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-LEMMA-VN-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-LEMMA-VN-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-LEMMA-VN-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-LEMMA-VN-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-LEMMA-VN-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-LEMMA-VN-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-LEMMA-VN-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-LEMMA-VN-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-LEMMA-VN-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-LEMMA-VN-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-LEMMA-VN-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-LEMMA-VN-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-LEMMA-VN-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-LEMMA-VN-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-LEMMA-VN-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-LEMMA-VN-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-LEMMA-VN-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-LEMMA-VN-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-LEMMA-VN-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-LEMMA-VN-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-LEMMA-VN-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-LEMMA-VN-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-LEMMA-VN-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-LEMMA-VN-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-LEMMA-VN-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-LEMMA-VN-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-LEMMA-VN-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-LEMMA-VN-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-LEMMA-VN-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-WORD-ALL-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-WORD-ALL-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-WORD-ALL-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-WORD-ALL-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-WORD-ALL-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-WORD-ALL-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-WORD-ALL-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-WORD-ALL-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-WORD-ALL-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-WORD-ALL-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-WORD-ALL-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-WORD-ALL-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-WORD-ALL-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-WORD-ALL-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-WORD-ALL-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-WORD-ALL-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-WORD-ALL-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-WORD-ALL-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-WORD-ALL-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-WORD-ALL-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-WORD-ALL-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-WORD-ALL-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-WORD-ALL-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-WORD-ALL-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-WORD-ALL-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-WORD-ALL-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-WORD-ALL-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-WORD-ALL-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-WORD-ALL-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-WORD-ALL-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-WORD-ALL-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-WORD-ALL-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-WORD-VN-NONE ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-WORD-VN-NONE ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-WORD-VN-NONE ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-WORD-VN-NONE ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-WORD-VN-NONE ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-WORD-VN-NONE ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-WORD-VN-NONE ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-WORD-VN-NONE ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-WORD-VN-NONE ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-WORD-VN-NONE ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-WORD-VN-NONE ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-WORD-VN-NONE ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-WORD-VN-NONE ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-WORD-VN-NONE ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-WORD-VN-NONE ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-WORD-VN-NONE ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-WORD-VN-NONE ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-1 Average_R: 0.57374 (95%-conf.int. 0.55897 - 0.58850)
+LCS-WORD-VN-STOP ROUGE-1 Average_P: 0.63924 (95%-conf.int. 0.62339 - 0.65586)
+LCS-WORD-VN-STOP ROUGE-1 Average_F: 0.60368 (95%-conf.int. 0.58957 - 0.61796)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-2 Average_R: 0.40856 (95%-conf.int. 0.39034 - 0.42880)
+LCS-WORD-VN-STOP ROUGE-2 Average_P: 0.45505 (95%-conf.int. 0.43522 - 0.47625)
+LCS-WORD-VN-STOP ROUGE-2 Average_F: 0.42981 (95%-conf.int. 0.41065 - 0.44997)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-3 Average_R: 0.38208 (95%-conf.int. 0.36319 - 0.40267)
+LCS-WORD-VN-STOP ROUGE-3 Average_P: 0.42559 (95%-conf.int. 0.40549 - 0.44707)
+LCS-WORD-VN-STOP ROUGE-3 Average_F: 0.40197 (95%-conf.int. 0.38270 - 0.42264)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-4 Average_R: 0.36985 (95%-conf.int. 0.35083 - 0.39053)
+LCS-WORD-VN-STOP ROUGE-4 Average_P: 0.41200 (95%-conf.int. 0.39094 - 0.43313)
+LCS-WORD-VN-STOP ROUGE-4 Average_F: 0.38910 (95%-conf.int. 0.36953 - 0.40951)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-L Average_R: 0.56529 (95%-conf.int. 0.55028 - 0.58069)
+LCS-WORD-VN-STOP ROUGE-L Average_P: 0.62986 (95%-conf.int. 0.61364 - 0.64712)
+LCS-WORD-VN-STOP ROUGE-L Average_F: 0.59481 (95%-conf.int. 0.57994 - 0.60989)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-W-1.2 Average_R: 0.15633 (95%-conf.int. 0.14991 - 0.16259)
+LCS-WORD-VN-STOP ROUGE-W-1.2 Average_P: 0.32330 (95%-conf.int. 0.31226 - 0.33480)
+LCS-WORD-VN-STOP ROUGE-W-1.2 Average_F: 0.21036 (95%-conf.int. 0.20266 - 0.21818)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-S* Average_R: 0.30809 (95%-conf.int. 0.29166 - 0.32666)
+LCS-WORD-VN-STOP ROUGE-S* Average_P: 0.38205 (95%-conf.int. 0.36184 - 0.40370)
+LCS-WORD-VN-STOP ROUGE-S* Average_F: 0.33881 (95%-conf.int. 0.32238 - 0.35693)
+---------------------------------------------
+LCS-WORD-VN-STOP ROUGE-SU* Average_R: 0.30902 (95%-conf.int. 0.29262 - 0.32760)
+LCS-WORD-VN-STOP ROUGE-SU* Average_P: 0.38304 (95%-conf.int. 0.36287 - 0.40463)
+LCS-WORD-VN-STOP ROUGE-SU* Average_F: 0.33977 (95%-conf.int. 0.32339 - 0.35784)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-LEMMA-ALL-NONE ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-LEMMA-ALL-NONE ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-LEMMA-ALL-NONE ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-LEMMA-ALL-NONE ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-LEMMA-ALL-NONE ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-LEMMA-ALL-NONE ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-LEMMA-ALL-NONE ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-LEMMA-ALL-NONE ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-LEMMA-ALL-NONE ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-LEMMA-ALL-NONE ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-LEMMA-ALL-NONE ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-LEMMA-ALL-NONE ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-LEMMA-ALL-NONE ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-LEMMA-ALL-NONE ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-LEMMA-ALL-NONE ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-LEMMA-ALL-NONE ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-LEMMA-ALL-NONE ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-LEMMA-ALL-STOP ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-LEMMA-ALL-STOP ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-LEMMA-ALL-STOP ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-LEMMA-ALL-STOP ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-LEMMA-ALL-STOP ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-LEMMA-ALL-STOP ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-LEMMA-ALL-STOP ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-LEMMA-ALL-STOP ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-LEMMA-ALL-STOP ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-LEMMA-ALL-STOP ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-LEMMA-ALL-STOP ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-LEMMA-ALL-STOP ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-LEMMA-ALL-STOP ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-LEMMA-ALL-STOP ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-LEMMA-ALL-STOP ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-LEMMA-ALL-STOP ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-LEMMA-ALL-STOP ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-LEMMA-VN-NONE ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-LEMMA-VN-NONE ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-LEMMA-VN-NONE ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-LEMMA-VN-NONE ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-LEMMA-VN-NONE ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-LEMMA-VN-NONE ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-LEMMA-VN-NONE ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-LEMMA-VN-NONE ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-LEMMA-VN-NONE ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-LEMMA-VN-NONE ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-LEMMA-VN-NONE ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-LEMMA-VN-NONE ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-LEMMA-VN-NONE ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-LEMMA-VN-NONE ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-LEMMA-VN-NONE ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-LEMMA-VN-NONE ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-LEMMA-VN-NONE ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-LEMMA-VN-STOP ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-LEMMA-VN-STOP ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-LEMMA-VN-STOP ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-LEMMA-VN-STOP ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-LEMMA-VN-STOP ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-LEMMA-VN-STOP ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-LEMMA-VN-STOP ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-LEMMA-VN-STOP ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-LEMMA-VN-STOP ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-LEMMA-VN-STOP ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-LEMMA-VN-STOP ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-LEMMA-VN-STOP ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-LEMMA-VN-STOP ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-LEMMA-VN-STOP ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-LEMMA-VN-STOP ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-LEMMA-VN-STOP ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-LEMMA-VN-STOP ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-WORD-ALL-NONE ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-WORD-ALL-NONE ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-WORD-ALL-NONE ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-WORD-ALL-NONE ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-WORD-ALL-NONE ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-WORD-ALL-NONE ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-WORD-ALL-NONE ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-WORD-ALL-NONE ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-WORD-ALL-NONE ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-WORD-ALL-NONE ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-WORD-ALL-NONE ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-WORD-ALL-NONE ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-WORD-ALL-NONE ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-WORD-ALL-NONE ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-WORD-ALL-NONE ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-WORD-ALL-NONE ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-WORD-ALL-NONE ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-WORD-ALL-STOP ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-WORD-ALL-STOP ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-WORD-ALL-STOP ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-WORD-ALL-STOP ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-WORD-ALL-STOP ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-WORD-ALL-STOP ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-WORD-ALL-STOP ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-WORD-ALL-STOP ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-WORD-ALL-STOP ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-WORD-ALL-STOP ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-WORD-ALL-STOP ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-WORD-ALL-STOP ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-WORD-ALL-STOP ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-WORD-ALL-STOP ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-WORD-ALL-STOP ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-WORD-ALL-STOP ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-WORD-ALL-STOP ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-WORD-VN-NONE ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-WORD-VN-NONE ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-WORD-VN-NONE ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-WORD-VN-NONE ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-WORD-VN-NONE ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-WORD-VN-NONE ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-WORD-VN-NONE ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-WORD-VN-NONE ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-WORD-VN-NONE ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-WORD-VN-NONE ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-WORD-VN-NONE ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-WORD-VN-NONE ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-WORD-VN-NONE ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-WORD-VN-NONE ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-WORD-VN-NONE ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-WORD-VN-NONE ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-WORD-VN-NONE ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-1 Average_R: 0.59021 (95%-conf.int. 0.57731 - 0.60392)
+RANDOM-WORD-VN-STOP ROUGE-1 Average_P: 0.65731 (95%-conf.int. 0.64125 - 0.67351)
+RANDOM-WORD-VN-STOP ROUGE-1 Average_F: 0.62081 (95%-conf.int. 0.60837 - 0.63369)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-2 Average_R: 0.41791 (95%-conf.int. 0.40108 - 0.43599)
+RANDOM-WORD-VN-STOP ROUGE-2 Average_P: 0.46587 (95%-conf.int. 0.44582 - 0.48555)
+RANDOM-WORD-VN-STOP ROUGE-2 Average_F: 0.43977 (95%-conf.int. 0.42174 - 0.45817)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-3 Average_R: 0.38160 (95%-conf.int. 0.36408 - 0.40004)
+RANDOM-WORD-VN-STOP ROUGE-3 Average_P: 0.42542 (95%-conf.int. 0.40517 - 0.44571)
+RANDOM-WORD-VN-STOP ROUGE-3 Average_F: 0.40157 (95%-conf.int. 0.38307 - 0.42042)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-4 Average_R: 0.36194 (95%-conf.int. 0.34449 - 0.38030)
+RANDOM-WORD-VN-STOP ROUGE-4 Average_P: 0.40351 (95%-conf.int. 0.38347 - 0.42324)
+RANDOM-WORD-VN-STOP ROUGE-4 Average_F: 0.38089 (95%-conf.int. 0.36248 - 0.39989)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-L Average_R: 0.58216 (95%-conf.int. 0.56946 - 0.59608)
+RANDOM-WORD-VN-STOP ROUGE-L Average_P: 0.64844 (95%-conf.int. 0.63237 - 0.66472)
+RANDOM-WORD-VN-STOP ROUGE-L Average_F: 0.61239 (95%-conf.int. 0.59961 - 0.62559)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-W-1.2 Average_R: 0.16607 (95%-conf.int. 0.16054 - 0.17165)
+RANDOM-WORD-VN-STOP ROUGE-W-1.2 Average_P: 0.34363 (95%-conf.int. 0.33300 - 0.35370)
+RANDOM-WORD-VN-STOP ROUGE-W-1.2 Average_F: 0.22350 (95%-conf.int. 0.21669 - 0.22995)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-S* Average_R: 0.34366 (95%-conf.int. 0.32851 - 0.36022)
+RANDOM-WORD-VN-STOP ROUGE-S* Average_P: 0.42706 (95%-conf.int. 0.40632 - 0.44790)
+RANDOM-WORD-VN-STOP ROUGE-S* Average_F: 0.37810 (95%-conf.int. 0.36283 - 0.39425)
+---------------------------------------------
+RANDOM-WORD-VN-STOP ROUGE-SU* Average_R: 0.34452 (95%-conf.int. 0.32941 - 0.36109)
+RANDOM-WORD-VN-STOP ROUGE-SU* Average_P: 0.42795 (95%-conf.int. 0.40722 - 0.44875)
+RANDOM-WORD-VN-STOP ROUGE-SU* Average_F: 0.37899 (95%-conf.int. 0.36370 - 0.39510)
